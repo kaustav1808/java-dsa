@@ -1,6 +1,7 @@
-package Collections.Student;
+package Collections.Student.Test;
 
-import jdk.jfr.Description;
+import Collections.Student.Student;
+import Collections.Student.StudentList;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

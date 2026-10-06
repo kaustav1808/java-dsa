@@ -3,10 +3,17 @@ package Collections.Student;
 public class Student implements Comparable<Student> {
     private String id;
     private String name;
+    private Double score;
 
-    Student(String id, String name) {
+    public Student(String id, String name) {
         this.id = id;
         this.name = name;
+    }
+
+    public Student(String id, String name, Double score) {
+        this.id = id;
+        this.name = name;
+        this.score = score;
     }
 
     @Override
@@ -21,6 +28,8 @@ public class Student implements Comparable<Student> {
     public String getStudentName() {
         return name;
     }
+
+    public Double getStudentScore() { return score; }
 
     @Override
     public boolean equals(Object obj) {
