@@ -28,9 +28,8 @@ Reverse the bit order of a 32-bit unsigned integer (bit 0 becomes bit 31 and so 
 
 ## Files in this package
 
-- `ReverseBits.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ReverseBitsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ReverseBits.java`: the LeetCode method/class signature, write your solution here.
+- `ReverseBitsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

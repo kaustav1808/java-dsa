@@ -29,9 +29,8 @@ Given an integer array and k, find the contiguous subarray of length exactly k w
 
 ## Files in this package
 
-- `MaximumAverageSubarrayI.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MaximumAverageSubarrayITest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MaximumAverageSubarrayI.java`: the LeetCode method/class signature, write your solution here.
+- `MaximumAverageSubarrayITest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -28,9 +28,8 @@ A transformation sequence from `beginWord` to `endWord` changes one letter at a 
 
 ## Files in this package
 
-- `WordLadderII.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `WordLadderIITest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `WordLadderII.java`: the LeetCode method/class signature, write your solution here.
+- `WordLadderIITest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

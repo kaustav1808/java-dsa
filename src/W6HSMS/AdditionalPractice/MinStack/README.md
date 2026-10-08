@@ -28,9 +28,8 @@ Design a stack that supports push, pop, top and getMin (return the minimum eleme
 
 ## Files in this package
 
-- `MinStack.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MinStackTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MinStack.java`: the LeetCode method/class signature, write your solution here.
+- `MinStackTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -30,9 +30,8 @@ A phrase is a palindrome if, after converting all uppercase letters to lowercase
 
 ## Files in this package
 
-- `ValidPalindrome.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ValidPalindromeTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ValidPalindrome.java`: the LeetCode method/class signature, write your solution here.
+- `ValidPalindromeTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

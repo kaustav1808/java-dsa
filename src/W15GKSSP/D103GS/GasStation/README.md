@@ -29,9 +29,8 @@ There are `n` gas stations on a circular route. Station i provides gas[i] fuel, 
 
 ## Files in this package
 
-- `GasStation.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `GasStationTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `GasStation.java`: the LeetCode method/class signature, write your solution here.
+- `GasStationTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

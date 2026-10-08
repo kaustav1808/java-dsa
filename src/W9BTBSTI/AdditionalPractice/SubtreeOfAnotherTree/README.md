@@ -29,9 +29,8 @@ Given the roots of two binary trees, root and subRoot, return true if root conta
 
 ## Files in this package
 
-- `SubtreeOfAnotherTree.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SubtreeOfAnotherTreeTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `SubtreeOfAnotherTree.java`: the LeetCode method/class signature, write your solution here.
+- `SubtreeOfAnotherTreeTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -29,9 +29,8 @@ Given two strings s and t, return true if t is an anagram of s (uses exactly the
 
 ## Files in this package
 
-- `ValidAnagram.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ValidAnagramTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ValidAnagram.java`: the LeetCode method/class signature, write your solution here.
+- `ValidAnagramTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -28,9 +28,8 @@ Given the root of a binary tree, return the node values level by level, from lef
 
 ## Files in this package
 
-- `BinaryTreeLevelOrderTraversal.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `BinaryTreeLevelOrderTraversalTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `BinaryTreeLevelOrderTraversal.java`: the LeetCode method/class signature, write your solution here.
+- `BinaryTreeLevelOrderTraversalTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

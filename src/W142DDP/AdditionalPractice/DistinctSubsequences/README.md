@@ -29,9 +29,8 @@ Given strings `s` and `t`, return how many distinct subsequences of s are equal 
 
 ## Files in this package
 
-- `DistinctSubsequences.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `DistinctSubsequencesTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `DistinctSubsequences.java`: the LeetCode method/class signature, write your solution here.
+- `DistinctSubsequencesTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

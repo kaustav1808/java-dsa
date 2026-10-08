@@ -29,9 +29,8 @@ A directed graph is given as an adjacency list. A terminal node has no outgoing 
 
 ## Files in this package
 
-- `FindEventualSafeStates.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `FindEventualSafeStatesTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `FindEventualSafeStates.java`: the LeetCode method/class signature, write your solution here.
+- `FindEventualSafeStatesTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

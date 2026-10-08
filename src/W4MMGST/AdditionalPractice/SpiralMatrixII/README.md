@@ -28,9 +28,8 @@ Given a positive integer `n`, build an n x n matrix filled with the numbers 1 to
 
 ## Files in this package
 
-- `SpiralMatrixII.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SpiralMatrixIITest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `SpiralMatrixII.java`: the LeetCode method/class signature, write your solution here.
+- `SpiralMatrixIITest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

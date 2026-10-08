@@ -28,9 +28,8 @@ Given an m x n board of letters and a list of words, return every word from the 
 
 ## Files in this package
 
-- `WordSearchII.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `WordSearchIITest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `WordSearchII.java`: the LeetCode method/class signature, write your solution here.
+- `WordSearchIITest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -28,9 +28,8 @@ Search for a target in an m x n matrix where every row is sorted left to right a
 
 ## Files in this package
 
-- `SearchA2DMatrixII.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SearchA2DMatrixIITest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `SearchA2DMatrixII.java`: the LeetCode method/class signature, write your solution here.
+- `SearchA2DMatrixIITest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -29,9 +29,8 @@ Given an integer treated as an unsigned 32-bit value, return how many of its bit
 
 ## Files in this package
 
-- `NumberOf1Bits.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `NumberOf1BitsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `NumberOf1Bits.java`: the LeetCode method/class signature, write your solution here.
+- `NumberOf1BitsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

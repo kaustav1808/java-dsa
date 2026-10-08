@@ -29,9 +29,8 @@ You are given an array of `k` linked lists, each sorted in ascending order. Merg
 
 ## Files in this package
 
-- `MergeKSortedLists.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MergeKSortedListsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MergeKSortedLists.java`: the LeetCode method/class signature, write your solution here.
+- `MergeKSortedListsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

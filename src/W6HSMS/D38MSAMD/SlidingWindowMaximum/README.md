@@ -29,9 +29,8 @@ Given an array and a window size k, a window of size k slides from the left end 
 
 ## Files in this package
 
-- `SlidingWindowMaximum.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SlidingWindowMaximumTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `SlidingWindowMaximum.java`: the LeetCode method/class signature, write your solution here.
+- `SlidingWindowMaximumTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

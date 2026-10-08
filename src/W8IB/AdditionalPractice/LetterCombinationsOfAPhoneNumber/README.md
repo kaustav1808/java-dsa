@@ -28,9 +28,8 @@ Each digit 2-9 maps to letters as on an old phone keypad (2 = abc, 3 = def, 4 = 
 
 ## Files in this package
 
-- `LetterCombinationsOfAPhoneNumber.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `LetterCombinationsOfAPhoneNumberTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `LetterCombinationsOfAPhoneNumber.java`: the LeetCode method/class signature, write your solution here.
+- `LetterCombinationsOfAPhoneNumberTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

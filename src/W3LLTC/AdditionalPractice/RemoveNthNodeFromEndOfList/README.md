@@ -28,9 +28,8 @@ Given the head of a linked list, delete the n-th node counted from the end of th
 
 ## Files in this package
 
-- `RemoveNthNodeFromEndOfList.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `RemoveNthNodeFromEndOfListTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `RemoveNthNodeFromEndOfList.java`: the LeetCode method/class signature, write your solution here.
+- `RemoveNthNodeFromEndOfListTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

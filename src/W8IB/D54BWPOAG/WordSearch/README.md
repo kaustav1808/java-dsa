@@ -29,9 +29,8 @@ Given an m x n grid of letters and a word, return true if the word can be traced
 
 ## Files in this package
 
-- `WordSearch.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `WordSearchTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `WordSearch.java`: the LeetCode method/class signature, write your solution here.
+- `WordSearchTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

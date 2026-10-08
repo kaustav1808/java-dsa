@@ -28,9 +28,8 @@ Given the heads of two sorted linked lists, splice their nodes together into one
 
 ## Files in this package
 
-- `MergeTwoSortedLists.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MergeTwoSortedListsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MergeTwoSortedLists.java`: the LeetCode method/class signature, write your solution here.
+- `MergeTwoSortedListsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

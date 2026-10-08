@@ -29,9 +29,8 @@ Given `n`, generate every string of `n` pairs of parentheses that is well-formed
 
 ## Files in this package
 
-- `GenerateParentheses.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `GenerateParenthesesTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `GenerateParentheses.java`: the LeetCode method/class signature, write your solution here.
+- `GenerateParenthesesTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

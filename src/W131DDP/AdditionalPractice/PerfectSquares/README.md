@@ -29,9 +29,8 @@ Given a positive integer n, return the least number of perfect square numbers (1
 
 ## Files in this package
 
-- `PerfectSquares.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `PerfectSquaresTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `PerfectSquares.java`: the LeetCode method/class signature, write your solution here.
+- `PerfectSquaresTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

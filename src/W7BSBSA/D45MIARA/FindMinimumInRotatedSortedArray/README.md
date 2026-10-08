@@ -29,9 +29,8 @@ A sorted array of unique values was rotated between 1 and n times. Return its mi
 
 ## Files in this package
 
-- `FindMinimumInRotatedSortedArray.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `FindMinimumInRotatedSortedArrayTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `FindMinimumInRotatedSortedArray.java`: the LeetCode method/class signature, write your solution here.
+- `FindMinimumInRotatedSortedArrayTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

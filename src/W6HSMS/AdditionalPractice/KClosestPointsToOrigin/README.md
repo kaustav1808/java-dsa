@@ -29,9 +29,8 @@ Given an array of points [x, y] on a plane and k, return the k points closest to
 
 ## Files in this package
 
-- `KClosestPointsToOrigin.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `KClosestPointsToOriginTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `KClosestPointsToOrigin.java`: the LeetCode method/class signature, write your solution here.
+- `KClosestPointsToOriginTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

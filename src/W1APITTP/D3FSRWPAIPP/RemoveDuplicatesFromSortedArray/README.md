@@ -28,9 +28,8 @@ Given an integer array `nums` sorted in non-decreasing order, remove the duplica
 
 ## Files in this package
 
-- `RemoveDuplicatesFromSortedArray.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `RemoveDuplicatesFromSortedArrayTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `RemoveDuplicatesFromSortedArray.java`: the LeetCode method/class signature, write your solution here.
+- `RemoveDuplicatesFromSortedArrayTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -28,9 +28,9 @@ A linked list has nodes with a `next` pointer and an extra `random` pointer that
 
 ## Files in this package
 
-- `CopyListWithRandomPointer.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `CopyListWithRandomPointerTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `CopyListWithRandomPointer.java`: the LeetCode method/class signature, write your solution here.
+- `CopyListWithRandomPointerTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
+- `Node.java`: LeetCode's Node class (already defined on LeetCode, do not paste it).
 
 ## Before you code
 

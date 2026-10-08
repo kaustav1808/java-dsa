@@ -32,8 +32,9 @@ Package  : W7BSBSA.D44SIRA
       and work one tiny example by hand before touching code.
    b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
       example by hand, and say the brute-force idea and its complexity before coding.
-   c. Implement in the problem class, run Main with the README examples, then turn those
-      examples plus your own edge cases into assertions in the Test class.
+   c. Implement the method in the problem class and run its Test class (the official
+      LeetCode examples are already written); add your own edge cases as extra tests,
+      then copy the method into LeetCode and submit.
    d. Write the time and space complexity as a comment above your solution.
    e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
       the solution from scratch without looking.

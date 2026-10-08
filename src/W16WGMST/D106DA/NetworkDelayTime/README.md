@@ -29,9 +29,8 @@ A network has n nodes labelled 1..n and directed travel times times[i] = (u, v, 
 
 ## Files in this package
 
-- `NetworkDelayTime.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `NetworkDelayTimeTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `NetworkDelayTime.java`: the LeetCode method/class signature, write your solution here.
+- `NetworkDelayTimeTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

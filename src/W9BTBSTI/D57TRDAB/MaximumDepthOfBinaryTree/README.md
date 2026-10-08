@@ -29,9 +29,8 @@ Given the root of a binary tree, return its maximum depth: the number of nodes o
 
 ## Files in this package
 
-- `MaximumDepthOfBinaryTree.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MaximumDepthOfBinaryTreeTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MaximumDepthOfBinaryTree.java`: the LeetCode method/class signature, write your solution here.
+- `MaximumDepthOfBinaryTreeTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

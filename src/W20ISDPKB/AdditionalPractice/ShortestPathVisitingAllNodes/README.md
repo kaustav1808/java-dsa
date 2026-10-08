@@ -33,9 +33,8 @@ BFS with bitmask.
 
 ## Files in this package
 
-- `ShortestPathVisitingAllNodes.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ShortestPathVisitingAllNodesTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ShortestPathVisitingAllNodes.java`: the LeetCode method/class signature, write your solution here.
+- `ShortestPathVisitingAllNodesTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

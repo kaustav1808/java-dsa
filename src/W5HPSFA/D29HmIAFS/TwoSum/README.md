@@ -28,9 +28,8 @@ Given an integer array `nums` and an integer `target`, return the indices of the
 
 ## Files in this package
 
-- `TwoSum.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `TwoSumTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `TwoSum.java`: the LeetCode method/class signature, write your solution here.
+- `TwoSumTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

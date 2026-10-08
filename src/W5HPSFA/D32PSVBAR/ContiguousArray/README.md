@@ -30,9 +30,8 @@ Given a binary array (only 0s and 1s), return the maximum length of a contiguous
 
 ## Files in this package
 
-- `ContiguousArray.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ContiguousArrayTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ContiguousArray.java`: the LeetCode method/class signature, write your solution here.
+- `ContiguousArrayTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -29,9 +29,8 @@ Given two strings, return the length of their longest common subsequence (charac
 
 ## Files in this package
 
-- `LongestCommonSubsequence.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `LongestCommonSubsequenceTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `LongestCommonSubsequence.java`: the LeetCode method/class signature, write your solution here.
+- `LongestCommonSubsequenceTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -29,9 +29,8 @@ Given daily stock prices, you may complete any number of transactions (buy one s
 
 ## Files in this package
 
-- `BestTimeToBuyAndSellStockWithCooldown.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `BestTimeToBuyAndSellStockWithCooldownTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `BestTimeToBuyAndSellStockWithCooldown.java`: the LeetCode method/class signature, write your solution here.
+- `BestTimeToBuyAndSellStockWithCooldownTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

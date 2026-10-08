@@ -29,9 +29,8 @@ Rotate an integer array to the right by `k` steps in place (the last k elements 
 
 ## Files in this package
 
-- `RotateArray.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `RotateArrayTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `RotateArray.java`: the LeetCode method/class signature, write your solution here.
+- `RotateArrayTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

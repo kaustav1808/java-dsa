@@ -28,9 +28,8 @@ Given the root of a binary tree and an integer `targetSum`, return every root-to
 
 ## Files in this package
 
-- `PathSumII.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `PathSumIITest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `PathSumII.java`: the LeetCode method/class signature, write your solution here.
+- `PathSumIITest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

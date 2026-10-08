@@ -28,9 +28,8 @@ Given the head of a linked list, return the node where a cycle begins, or null i
 
 ## Files in this package
 
-- `LinkedListCycleII.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `LinkedListCycleIITest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `LinkedListCycleII.java`: the LeetCode method/class signature, write your solution here.
+- `LinkedListCycleIITest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

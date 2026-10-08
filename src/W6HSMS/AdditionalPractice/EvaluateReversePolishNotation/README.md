@@ -29,9 +29,8 @@ Evaluate an arithmetic expression given in Reverse Polish (postfix) notation as 
 
 ## Files in this package
 
-- `EvaluateReversePolishNotation.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `EvaluateReversePolishNotationTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `EvaluateReversePolishNotation.java`: the LeetCode method/class signature, write your solution here.
+- `EvaluateReversePolishNotationTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

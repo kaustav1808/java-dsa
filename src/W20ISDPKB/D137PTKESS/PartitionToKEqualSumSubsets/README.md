@@ -29,9 +29,8 @@ Given an integer array and k, return true if the array can be divided into k non
 
 ## Files in this package
 
-- `PartitionToKEqualSumSubsets.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `PartitionToKEqualSumSubsetsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `PartitionToKEqualSumSubsets.java`: the LeetCode method/class signature, write your solution here.
+- `PartitionToKEqualSumSubsetsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

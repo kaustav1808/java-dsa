@@ -29,9 +29,8 @@ A car with capacity seats drives only east. trips[i] = [numPassengers, from, to]
 
 ## Files in this package
 
-- `CarPooling.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `CarPoolingTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `CarPooling.java`: the LeetCode method/class signature, write your solution here.
+- `CarPoolingTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

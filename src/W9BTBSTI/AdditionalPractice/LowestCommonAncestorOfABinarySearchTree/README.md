@@ -29,9 +29,8 @@ Given a binary search tree and two of its nodes p and q, return their lowest com
 
 ## Files in this package
 
-- `LowestCommonAncestorOfABinarySearchTree.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `LowestCommonAncestorOfABinarySearchTreeTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `LowestCommonAncestorOfABinarySearchTree.java`: the LeetCode method/class signature, write your solution here.
+- `LowestCommonAncestorOfABinarySearchTreeTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

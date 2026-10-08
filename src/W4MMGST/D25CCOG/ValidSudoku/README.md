@@ -28,9 +28,8 @@ Decide whether a partially filled 9x9 Sudoku board is valid so far. Only the fil
 
 ## Files in this package
 
-- `ValidSudoku.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ValidSudokuTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ValidSudoku.java`: the LeetCode method/class signature, write your solution here.
+- `ValidSudokuTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

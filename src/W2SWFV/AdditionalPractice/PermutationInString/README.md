@@ -29,9 +29,8 @@ Given strings s1 and s2, return true if s2 contains a permutation of s1 as a con
 
 ## Files in this package
 
-- `PermutationInString.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `PermutationInStringTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `PermutationInString.java`: the LeetCode method/class signature, write your solution here.
+- `PermutationInStringTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

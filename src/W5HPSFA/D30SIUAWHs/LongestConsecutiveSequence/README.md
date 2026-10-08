@@ -29,9 +29,8 @@ Given an unsorted integer array, return the length of the longest run of consecu
 
 ## Files in this package
 
-- `LongestConsecutiveSequence.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `LongestConsecutiveSequenceTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `LongestConsecutiveSequence.java`: the LeetCode method/class signature, write your solution here.
+- `LongestConsecutiveSequenceTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

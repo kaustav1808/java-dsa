@@ -29,9 +29,8 @@ Given an m x n matrix, return all of its elements in clockwise spiral order, sta
 
 ## Files in this package
 
-- `SpiralMatrix.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SpiralMatrixTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `SpiralMatrix.java`: the LeetCode method/class signature, write your solution here.
+- `SpiralMatrixTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

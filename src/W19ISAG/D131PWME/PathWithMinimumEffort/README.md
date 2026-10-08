@@ -29,9 +29,8 @@ You are a hiker on a grid of heights moving up, down, left or right from the top
 
 ## Files in this package
 
-- `PathWithMinimumEffort.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `PathWithMinimumEffortTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `PathWithMinimumEffort.java`: the LeetCode method/class signature, write your solution here.
+- `PathWithMinimumEffortTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

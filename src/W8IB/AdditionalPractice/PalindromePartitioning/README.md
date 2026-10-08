@@ -29,9 +29,8 @@ Given a string `s`, split it into pieces so that every piece is a palindrome, an
 
 ## Files in this package
 
-- `PalindromePartitioning.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `PalindromePartitioningTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `PalindromePartitioning.java`: the LeetCode method/class signature, write your solution here.
+- `PalindromePartitioningTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

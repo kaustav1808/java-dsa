@@ -29,9 +29,8 @@ Given a binary grid where 1 is land and 0 is water, an island is a group of land
 
 ## Files in this package
 
-- `MaxAreaOfIsland.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MaxAreaOfIslandTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MaxAreaOfIsland.java`: the LeetCode method/class signature, write your solution here.
+- `MaxAreaOfIslandTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

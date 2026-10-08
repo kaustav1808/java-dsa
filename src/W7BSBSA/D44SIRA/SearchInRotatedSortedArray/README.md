@@ -29,9 +29,8 @@ A sorted array of distinct integers has been rotated at an unknown pivot (for ex
 
 ## Files in this package
 
-- `SearchInRotatedSortedArray.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SearchInRotatedSortedArrayTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `SearchInRotatedSortedArray.java`: the LeetCode method/class signature, write your solution here.
+- `SearchInRotatedSortedArrayTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

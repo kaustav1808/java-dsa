@@ -28,9 +28,8 @@ Design a pair of functions: one that serializes a binary tree to a string, and o
 
 ## Files in this package
 
-- `SerializeAndDeserializeBinaryTree.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SerializeAndDeserializeBinaryTreeTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `Codec.java`: the LeetCode method/class signature, write your solution here.
+- `CodecTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

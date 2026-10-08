@@ -29,9 +29,8 @@ routes[i] lists the bus stops that bus i visits in a repeating loop. Starting at
 
 ## Files in this package
 
-- `BusRoutes.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `BusRoutesTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `BusRoutes.java`: the LeetCode method/class signature, write your solution here.
+- `BusRoutesTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

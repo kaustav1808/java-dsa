@@ -29,9 +29,8 @@ Given an integer array and an integer k, return true if there is a contiguous su
 
 ## Files in this package
 
-- `ContinuousSubarraySum.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ContinuousSubarraySumTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ContinuousSubarraySum.java`: the LeetCode method/class signature, write your solution here.
+- `ContinuousSubarraySumTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

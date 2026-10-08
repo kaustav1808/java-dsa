@@ -29,9 +29,8 @@ A number is happy if repeatedly replacing it with the sum of the squares of its 
 
 ## Files in this package
 
-- `HappyNumber.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `HappyNumberTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `HappyNumber.java`: the LeetCode method/class signature, write your solution here.
+- `HappyNumberTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

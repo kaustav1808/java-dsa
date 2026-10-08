@@ -28,9 +28,8 @@ Design an LRU (least recently used) cache with a fixed capacity. `get(key)` retu
 
 ## Files in this package
 
-- `LRUCache.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `LRUCacheTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `LRUCache.java`: the LeetCode method/class signature, write your solution here.
+- `LRUCacheTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

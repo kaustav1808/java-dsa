@@ -29,9 +29,8 @@ events[i] = [startDay, endDay]. You can attend an event on any single day d with
 
 ## Files in this package
 
-- `MaximumNumberOfEventsThatCanBeAttended.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MaximumNumberOfEventsThatCanBeAttendedTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MaximumNumberOfEventsThatCanBeAttended.java`: the LeetCode method/class signature, write your solution here.
+- `MaximumNumberOfEventsThatCanBeAttendedTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

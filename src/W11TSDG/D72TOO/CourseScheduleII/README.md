@@ -28,9 +28,8 @@ Same setup as Course Schedule: given numCourses and prerequisite pairs [a, b] (t
 
 ## Files in this package
 
-- `CourseScheduleII.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `CourseScheduleIITest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `CourseScheduleII.java`: the LeetCode method/class signature, write your solution here.
+- `CourseScheduleIITest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

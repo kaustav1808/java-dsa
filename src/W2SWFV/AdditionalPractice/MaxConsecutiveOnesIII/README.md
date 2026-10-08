@@ -29,9 +29,8 @@ Given a binary array and an integer k, return the maximum number of consecutive 
 
 ## Files in this package
 
-- `MaxConsecutiveOnesIII.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MaxConsecutiveOnesIIITest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MaxConsecutiveOnesIII.java`: the LeetCode method/class signature, write your solution here.
+- `MaxConsecutiveOnesIIITest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

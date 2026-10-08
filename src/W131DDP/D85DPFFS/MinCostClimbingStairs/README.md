@@ -29,9 +29,8 @@ cost[i] is the price of stepping on stair i. After paying you can climb 1 or 2 s
 
 ## Files in this package
 
-- `MinCostClimbingStairs.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MinCostClimbingStairsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MinCostClimbingStairs.java`: the LeetCode method/class signature, write your solution here.
+- `MinCostClimbingStairsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

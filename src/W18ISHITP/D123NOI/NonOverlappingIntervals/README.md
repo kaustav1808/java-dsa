@@ -30,9 +30,8 @@ Given a list of intervals, return the minimum number of intervals to remove so t
 
 ## Files in this package
 
-- `NonOverlappingIntervals.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `NonOverlappingIntervalsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `NonOverlappingIntervals.java`: the LeetCode method/class signature, write your solution here.
+- `NonOverlappingIntervalsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

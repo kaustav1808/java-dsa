@@ -29,9 +29,8 @@ Given words written in an alien language and the alien alphabet order (a permuta
 
 ## Files in this package
 
-- `VerifyingAnAlienDictionary.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `VerifyingAnAlienDictionaryTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `VerifyingAnAlienDictionary.java`: the LeetCode method/class signature, write your solution here.
+- `VerifyingAnAlienDictionaryTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

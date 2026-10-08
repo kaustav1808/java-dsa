@@ -29,9 +29,8 @@ Given an array of intervals `[start, end]`, merge every group of overlapping int
 
 ## Files in this package
 
-- `MergeIntervals.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MergeIntervalsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MergeIntervals.java`: the LeetCode method/class signature, write your solution here.
+- `MergeIntervalsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

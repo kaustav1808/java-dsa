@@ -29,9 +29,8 @@ Given an array of positive integers and a positive `target`, return the minimal 
 
 ## Files in this package
 
-- `MinimumSizeSubarraySum.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MinimumSizeSubarraySumTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MinimumSizeSubarraySum.java`: the LeetCode method/class signature, write your solution here.
+- `MinimumSizeSubarraySumTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -29,9 +29,8 @@ Given a binary tree (not necessarily a BST) and two of its nodes p and q, return
 
 ## Files in this package
 
-- `LowestCommonAncestorOfABinaryTree.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `LowestCommonAncestorOfABinaryTreeTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `LowestCommonAncestorOfABinaryTree.java`: the LeetCode method/class signature, write your solution here.
+- `LowestCommonAncestorOfABinaryTreeTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -29,9 +29,8 @@ Given the root of a binary tree, imagine standing on its right side. Return the 
 
 ## Files in this package
 
-- `BinaryTreeRightSideView.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `BinaryTreeRightSideViewTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `BinaryTreeRightSideView.java`: the LeetCode method/class signature, write your solution here.
+- `BinaryTreeRightSideViewTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -29,9 +29,8 @@ Move all 0s in an array to the end while keeping the relative order of the non-z
 
 ## Files in this package
 
-- `MoveZeroes.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MoveZeroesTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MoveZeroes.java`: the LeetCode method/class signature, write your solution here.
+- `MoveZeroesTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

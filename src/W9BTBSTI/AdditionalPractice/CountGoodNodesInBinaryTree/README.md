@@ -30,9 +30,8 @@ In a binary tree, a node X is 'good' if no node on the path from the root to X h
 
 ## Files in this package
 
-- `CountGoodNodesInBinaryTree.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `CountGoodNodesInBinaryTreeTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `CountGoodNodesInBinaryTree.java`: the LeetCode method/class signature, write your solution here.
+- `CountGoodNodesInBinaryTreeTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

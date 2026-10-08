@@ -29,9 +29,8 @@ Given daily stock prices, you may complete as many transactions as you like, but
 
 ## Files in this package
 
-- `BestTimeToBuyAndSellStockII.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `BestTimeToBuyAndSellStockIITest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `BestTimeToBuyAndSellStockII.java`: the LeetCode method/class signature, write your solution here.
+- `BestTimeToBuyAndSellStockIITest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

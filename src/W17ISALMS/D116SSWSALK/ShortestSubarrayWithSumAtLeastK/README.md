@@ -30,9 +30,8 @@ Given an integer array (values may be negative) and k, return the length of the 
 
 ## Files in this package
 
-- `ShortestSubarrayWithSumAtLeastK.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ShortestSubarrayWithSumAtLeastKTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ShortestSubarrayWithSumAtLeastK.java`: the LeetCode method/class signature, write your solution here.
+- `ShortestSubarrayWithSumAtLeastKTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -29,9 +29,8 @@ A graph started as a tree with n nodes (labelled 1..n) and then one extra edge w
 
 ## Files in this package
 
-- `RedundantConnection.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `RedundantConnectionTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `RedundantConnection.java`: the LeetCode method/class signature, write your solution here.
+- `RedundantConnectionTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -29,9 +29,8 @@ Search for `target` in a sorted array that has been rotated at an unknown pivot,
 
 ## Files in this package
 
-- `SearchInRotatedSortedArrayII.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SearchInRotatedSortedArrayIITest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `SearchInRotatedSortedArrayII.java`: the LeetCode method/class signature, write your solution here.
+- `SearchInRotatedSortedArrayIITest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

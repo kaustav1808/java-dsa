@@ -29,9 +29,8 @@ Given the head of a singly linked list, return true if its values read the same 
 
 ## Files in this package
 
-- `PalindromeLinkedList.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `PalindromeLinkedListTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `PalindromeLinkedList.java`: the LeetCode method/class signature, write your solution here.
+- `PalindromeLinkedListTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

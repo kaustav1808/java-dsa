@@ -29,9 +29,8 @@ Given strings `s1`, `s2` and `s3`, decide whether s3 can be formed by interleavi
 
 ## Files in this package
 
-- `InterleavingString.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `InterleavingStringTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `InterleavingString.java`: the LeetCode method/class signature, write your solution here.
+- `InterleavingStringTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

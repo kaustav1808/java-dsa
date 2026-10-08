@@ -29,9 +29,8 @@ You are given an m x n matrix where each row is sorted ascending and the first v
 
 ## Files in this package
 
-- `SearchA2DMatrix.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SearchA2DMatrixTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `SearchA2DMatrix.java`: the LeetCode method/class signature, write your solution here.
+- `SearchA2DMatrixTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

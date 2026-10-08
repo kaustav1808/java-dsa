@@ -30,9 +30,8 @@ A permutation's 'next permutation' is the next arrangement in lexicographic (dic
 
 ## Files in this package
 
-- `NextPermutation.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `NextPermutationTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `NextPermutation.java`: the LeetCode method/class signature, write your solution here.
+- `NextPermutationTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -28,9 +28,8 @@ Design a set supporting insert(val), remove(val) and getRandom() (return a unifo
 
 ## Files in this package
 
-- `InsertDeleteGetRandomO1.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `InsertDeleteGetRandomO1Test.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `RandomizedSet.java`: the LeetCode method/class signature, write your solution here.
+- `RandomizedSetTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

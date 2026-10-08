@@ -30,9 +30,8 @@ In a grid, 0 is empty, 1 is a fresh orange and 2 is a rotten orange. Every minut
 
 ## Files in this package
 
-- `RottingOranges.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `RottingOrangesTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `RottingOranges.java`: the LeetCode method/class signature, write your solution here.
+- `RottingOrangesTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

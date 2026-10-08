@@ -28,9 +28,8 @@ Given an integer array sorted in non-decreasing order, remove duplicates in plac
 
 ## Files in this package
 
-- `RemoveDuplicatesFromSortedArrayII.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `RemoveDuplicatesFromSortedArrayIITest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `RemoveDuplicatesFromSortedArrayII.java`: the LeetCode method/class signature, write your solution here.
+- `RemoveDuplicatesFromSortedArrayIITest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

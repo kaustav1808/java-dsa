@@ -28,9 +28,8 @@ An m x n island is bordered by the Pacific Ocean on its top and left edges and t
 
 ## Files in this package
 
-- `PacificAtlanticWaterFlow.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `PacificAtlanticWaterFlowTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `PacificAtlanticWaterFlow.java`: the LeetCode method/class signature, write your solution here.
+- `PacificAtlanticWaterFlowTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

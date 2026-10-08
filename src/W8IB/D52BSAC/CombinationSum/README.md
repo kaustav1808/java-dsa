@@ -28,9 +28,8 @@ Given an array of distinct positive integers `candidates` and a `target`, return
 
 ## Files in this package
 
-- `CombinationSum.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `CombinationSumTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `CombinationSum.java`: the LeetCode method/class signature, write your solution here.
+- `CombinationSumTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

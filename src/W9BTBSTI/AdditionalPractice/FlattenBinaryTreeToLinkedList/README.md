@@ -28,9 +28,8 @@ Given the root of a binary tree, flatten it in place into a 'linked list' that u
 
 ## Files in this package
 
-- `FlattenBinaryTreeToLinkedList.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `FlattenBinaryTreeToLinkedListTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `FlattenBinaryTreeToLinkedList.java`: the LeetCode method/class signature, write your solution here.
+- `FlattenBinaryTreeToLinkedListTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

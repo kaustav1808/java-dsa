@@ -29,9 +29,8 @@ Given an array of positive integers and an integer k, return the number of conti
 
 ## Files in this package
 
-- `SubarrayProductLessThanK.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SubarrayProductLessThanKTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `SubarrayProductLessThanK.java`: the LeetCode method/class signature, write your solution here.
+- `SubarrayProductLessThanKTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

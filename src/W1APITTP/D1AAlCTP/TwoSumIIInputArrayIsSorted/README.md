@@ -29,9 +29,8 @@ Given a 1-indexed array of integers sorted in non-decreasing order, find two num
 
 ## Files in this package
 
-- `TwoSumIIInputArrayIsSorted.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `TwoSumIIInputArrayIsSortedTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `TwoSumIIInputArrayIsSorted.java`: the LeetCode method/class signature, write your solution here.
+- `TwoSumIIInputArrayIsSortedTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

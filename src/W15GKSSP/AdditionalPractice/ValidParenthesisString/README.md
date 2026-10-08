@@ -31,9 +31,8 @@ Given a string of '(', ')' and '*', where each '*' can act as '(', as ')' or as 
 
 ## Files in this package
 
-- `ValidParenthesisString.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ValidParenthesisStringTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ValidParenthesisString.java`: the LeetCode method/class signature, write your solution here.
+- `ValidParenthesisStringTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -30,9 +30,8 @@ Given a circular integer array (the end wraps around to the start), return the m
 
 ## Files in this package
 
-- `MaximumSumCircularSubarray.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MaximumSumCircularSubarrayTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MaximumSumCircularSubarray.java`: the LeetCode method/class signature, write your solution here.
+- `MaximumSumCircularSubarrayTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 
