@@ -1,0 +1,53 @@
+DAY 61 STUDY GUIDE: Serialization and tree construction
+========================================================================================
+Week     : Week 9 - Binary Trees & BST Invariants
+Week goal: Tree recursion, LCA, BFS levels, BST validation and serialization.
+Day type : Learning and practice
+Jira     : SCRUM-90  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-90)
+Package  : W9BTBSTI.D61SATC
+
+1. WHAT TO STUDY TODAY
+
+   Preorder with null markers; build a tree from preorder and inorder using an index
+   map.
+
+   Key ideas to understand before coding (from today's problems):
+   - Pre-order with a null marker (e.g. "1,2,#,#,3,4,#,#,5,#,#") and a recursive reader.
+   - The first preorder value is the root; its position in inorder splits left and right
+     subtrees (use a value -> index map).
+
+2. PROBLEMS FOR TODAY
+
+   1) Hard 297. Serialize and Deserialize Binary Tree
+      Link    : https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+      Package : W9BTBSTI.D61SATC.SerializeAndDeserializeBinaryTree
+
+   2) Medium 105. Construct Binary Tree from Preorder and Inorder Traversal
+      Link    : https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+      Package : W9BTBSTI.D61SATC.ConstructBinaryTreeFromPreorderAndInorderTraversal
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Round-trip a tree through a string exactly, and build from traversals in O(N).
+
+5. DONE CHECKLIST
+
+   [ ] Serialize and Deserialize Binary Tree: solved, tests pass, complexity written
+   [ ] Construct Binary Tree from Preorder and Inorder Traversal: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

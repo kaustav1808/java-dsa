@@ -1,0 +1,49 @@
+DAY 131 STUDY GUIDE: Path With Minimum Effort
+========================================================================================
+Week     : Week 19 - Interview Simulation: Advanced Graphs
+Week goal: Timed practice on BFS, topological, shortest-path and weighted-graph modelling.
+Day type : Learning and practice
+Jira     : SCRUM-160  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-160)
+Package  : W19ISAG.D131PWME
+
+1. WHAT TO STUDY TODAY
+
+   Dijkstra on a grid where cost is the max edge difference, or binary search + BFS, or
+   sorted edges + DSU. Daily loop (90 min): 15 min review Error Log and re-trace past
+   failures; 45 min timed solve (talk through approach, trade-offs and edge cases before
+   coding); 30 min review, optimise and log bugs.
+
+   Key ideas to understand before coding (from today's problems):
+   - Dijkstra where a path's cost is its max edge (not the sum); or binary search the
+     answer with BFS; or Union-Find on sorted edges.
+
+2. PROBLEMS FOR TODAY
+
+   1) Medium 1631. Path With Minimum Effort
+      Link    : https://leetcode.com/problems/path-with-minimum-effort/
+      Package : W19ISAG.D131PWME.PathWithMinimumEffort
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Solve with one approach and compare it with another.
+
+5. DONE CHECKLIST
+
+   [ ] Path With Minimum Effort: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

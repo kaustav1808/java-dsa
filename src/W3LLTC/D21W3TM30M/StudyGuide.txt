@@ -1,0 +1,45 @@
+DAY 21 STUDY GUIDE: Week 3 timed mock (30 min)
+========================================================================================
+Week     : Week 3 - Linked List Transformations & Cycles
+Week goal: Rewire pointers safely: reversal, dummy node, cycle detection, intersection and k-group reversal.
+Day type : Timed mock interview
+Jira     : SCRUM-50  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-50)
+Package  : W3LLTC.D21W3TM30M
+
+1. WHAT TO STUDY TODAY
+
+   Action: Implement an unseen linked-list manipulation problem in 30 minutes.
+
+2. PROBLEMS FOR TODAY
+
+   No fixed problem. Choose an unseen problem of this week's pattern, for example one
+   you have not solved yet from W3LLTC.AdditionalPractice:
+
+   - Medium 19. Remove Nth Node From End of List  ★  ->  https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+   - Medium 143. Reorder List  ★  ->  https://leetcode.com/problems/reorder-list/
+   - Medium 2. Add Two Numbers  ★  ->  https://leetcode.com/problems/add-two-numbers/
+   - Medium 138. Copy List with Random Pointer  ★  ->  https://leetcode.com/problems/copy-list-with-random-pointer/
+   - Easy 234. Palindrome Linked List  ->  https://leetcode.com/problems/palindrome-linked-list/
+   - Easy 876. Middle of the Linked List  ->  https://leetcode.com/problems/middle-of-the-linked-list/
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Clear the desk and set a timer for the stated duration. No notes, no hints, no IDE
+      autocomplete if you can avoid it.
+   b. Pick a problem of this week's pattern that you have NOT solved yet (the week's
+      AdditionalPractice package is a good pool).
+   c. Talk out loud as in an interview: clarify inputs, give a brute force, state the
+      invariant, then code the optimal solution.
+   d. Test with your own examples, then state time and space complexity.
+   e. After the timer, review honestly: what slowed you down? Add it to the Error Log.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Bug-free solution within 30 minutes with a verbal walkthrough of pointer changes.
+
+5. DONE CHECKLIST
+
+   [ ] Solved within the time limit (or noted exactly where time ran out)
+   [ ] Invariant and complexity explained out loud
+   [ ] Post-mock review added to the Error Log
+   [ ] Jira task moved to Done

@@ -1,0 +1,44 @@
+# 442. Find All Duplicates in an Array
+
+**Difficulty:** Medium · **Source:** LeetCode
+
+## Links
+
+- LeetCode: https://leetcode.com/problems/find-all-duplicates-in-an-array/
+- Jira task: https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-26
+
+**Where it fits:** Week 17 - Interview Simulation: Arrays, Lists & Monotonic Structures → Additional practice (SCRUM-26)
+
+## Problem statement
+
+In an array of length n whose values are in [1, n], each value appears once or twice. Return every value that appears twice, in O(n) time and using only constant extra space (apart from the output).
+
+## Examples
+
+- `nums = [4, 3, 2, 7, 8, 2, 3, 1] -> [2, 3]`
+- `nums = [1, 1, 2] -> [1]`
+
+## Hints
+
+<details>
+<summary>Open only if you are stuck for more than 20-25 minutes</summary>
+
+- Use the sign of nums[abs(v) - 1] as a 'seen' marker: if it is already negative, v is a duplicate.
+
+</details>
+
+## Files in this package
+
+- `FindAllDuplicatesInAnArray.java`: write your solution here.
+- `Main.java`: run your solution on the examples above.
+- `FindAllDuplicatesInAnArrayTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+
+## Before you code
+
+1. Restate the problem in one sentence and list the edge cases (empty input, one element, duplicates, negatives, overflow).
+2. Trace one example by hand.
+3. Say the brute-force idea and its complexity, then look for the better pattern.
+4. After solving, write the time and space complexity as a comment and log any mistake in your Error Log.
+
+---
+*The statement and examples above are written in our own words for study purposes. Use the link for the official wording, full examples and exact constraints.*

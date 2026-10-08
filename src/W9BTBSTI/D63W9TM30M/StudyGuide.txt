@@ -1,0 +1,46 @@
+DAY 63 STUDY GUIDE: Week 9 timed mock (30 min)
+========================================================================================
+Week     : Week 9 - Binary Trees & BST Invariants
+Week goal: Tree recursion, LCA, BFS levels, BST validation and serialization.
+Day type : Timed mock interview
+Jira     : SCRUM-92  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-92)
+Package  : W9BTBSTI.D63W9TM30M
+
+1. WHAT TO STUDY TODAY
+
+   Action: Solve an unseen tree transformation problem in 30 minutes.
+
+2. PROBLEMS FOR TODAY
+
+   No fixed problem. Choose an unseen problem of this week's pattern, for example one
+   you have not solved yet from W9BTBSTI.AdditionalPractice:
+
+   - Easy 226. Invert Binary Tree  ★  ->  https://leetcode.com/problems/invert-binary-tree/
+   - Easy 100. Same Tree  ★  ->  https://leetcode.com/problems/same-tree/
+   - Easy 572. Subtree of Another Tree  ★  ->  https://leetcode.com/problems/subtree-of-another-tree/
+   - Medium 235. Lowest Common Ancestor of a Binary Search Tree  ★  ->  https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+   - Medium 1448. Count Good Nodes in Binary Tree  ★  ->  https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+   - Easy 101. Symmetric Tree  ->  https://leetcode.com/problems/symmetric-tree/
+   - Medium 114. Flatten Binary Tree to Linked List  ->  https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Clear the desk and set a timer for the stated duration. No notes, no hints, no IDE
+      autocomplete if you can avoid it.
+   b. Pick a problem of this week's pattern that you have NOT solved yet (the week's
+      AdditionalPractice package is a good pool).
+   c. Talk out loud as in an interview: clarify inputs, give a brute force, state the
+      invariant, then code the optimal solution.
+   d. Test with your own examples, then state time and space complexity.
+   e. After the timer, review honestly: what slowed you down? Add it to the Error Log.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Working solution within 30 minutes with recursion explained.
+
+5. DONE CHECKLIST
+
+   [ ] Solved within the time limit (or noted exactly where time ran out)
+   [ ] Invariant and complexity explained out loud
+   [ ] Post-mock review added to the Error Log
+   [ ] Jira task moved to Done

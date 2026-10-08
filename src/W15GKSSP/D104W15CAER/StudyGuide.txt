@@ -1,0 +1,44 @@
+DAY 104 STUDY GUIDE: Week 15 consolidation and error review
+========================================================================================
+Week     : Week 15 - Greedy & Kadane-Style Subarray Patterns
+Week goal: Greedy choices with proofs, Kadane's algorithm and its product/circular variants.
+Day type : Consolidation and error review
+Jira     : SCRUM-133  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-133)
+Package  : W15GKSSP.D104W15CAER
+
+1. WHAT TO STUDY TODAY
+
+   Action: Review the negative-value transition states for Maximum Product Subarray.
+
+2. PROBLEMS FOR TODAY
+
+   No new problems. Review everything solved this week:
+
+   - Jump Game (Medium)  ->  W15GKSSP.D99GJG.JumpGame
+   - Jump Game II (Medium)  ->  W15GKSSP.D99GJG.JumpGameII
+   - Maximum Subarray (Medium)  ->  W15GKSSP.D100KA.MaximumSubarray
+   - Maximum Product Subarray (Medium)  ->  W15GKSSP.D101MPS.MaximumProductSubarray
+   - Maximum Sum Circular Subarray (Medium)  ->  W15GKSSP.D102CS.MaximumSumCircularSubarray
+   - Gas Station (Medium)  ->  W15GKSSP.D103GS.GasStation
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Open your Error Log and list every problem from this week you missed or needed a
+      hint for.
+   b. Re-solve each of them from a blank file without looking at your old code; time
+      yourself.
+   c. For every problem of the week, write one line: pattern, key invariant, time and
+      space complexity.
+   d. Update the Error Log with root causes (why the bug happened), not symptoms.
+   e. If time is left, re-solve the hardest problem of the week once more, faster.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Re-solved with explicit min/max trace on a negative-heavy example.
+
+5. DONE CHECKLIST
+
+   [ ] Every missed problem of the week re-solved from scratch without hints
+   [ ] One-line pattern + complexity summary written for every problem of the week
+   [ ] Error Log updated with root causes
+   [ ] Jira task moved to Done

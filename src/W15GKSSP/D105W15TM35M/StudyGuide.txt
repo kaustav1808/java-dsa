@@ -1,0 +1,45 @@
+DAY 105 STUDY GUIDE: Week 15 timed mock (35 min)
+========================================================================================
+Week     : Week 15 - Greedy & Kadane-Style Subarray Patterns
+Week goal: Greedy choices with proofs, Kadane's algorithm and its product/circular variants.
+Day type : Timed mock interview
+Jira     : SCRUM-134  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-134)
+Package  : W15GKSSP.D105W15TM35M
+
+1. WHAT TO STUDY TODAY
+
+   Action: Implement a tricky greedy selection problem in 35 minutes.
+
+2. PROBLEMS FOR TODAY
+
+   No fixed problem. Choose an unseen problem of this week's pattern, for example one
+   you have not solved yet from W15GKSSP.AdditionalPractice:
+
+   - Medium 763. Partition Labels  ★  ->  https://leetcode.com/problems/partition-labels/
+   - Medium 846. Hand of Straights  ★  ->  https://leetcode.com/problems/hand-of-straights/
+   - Medium 678. Valid Parenthesis String  ★  ->  https://leetcode.com/problems/valid-parenthesis-string/
+   - Medium 1899. Merge Triplets to Form Target Triplet  ★  ->  https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
+   - Medium 122. Best Time to Buy and Sell Stock II  ->  https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+   - Hard 135. Candy  ->  https://leetcode.com/problems/candy/
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Clear the desk and set a timer for the stated duration. No notes, no hints, no IDE
+      autocomplete if you can avoid it.
+   b. Pick a problem of this week's pattern that you have NOT solved yet (the week's
+      AdditionalPractice package is a good pool).
+   c. Talk out loud as in an interview: clarify inputs, give a brute force, state the
+      invariant, then code the optimal solution.
+   d. Test with your own examples, then state time and space complexity.
+   e. After the timer, review honestly: what slowed you down? Add it to the Error Log.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Working solution within 35 minutes with a greedy-choice justification.
+
+5. DONE CHECKLIST
+
+   [ ] Solved within the time limit (or noted exactly where time ran out)
+   [ ] Invariant and complexity explained out loud
+   [ ] Post-mock review added to the Error Log
+   [ ] Jira task moved to Done

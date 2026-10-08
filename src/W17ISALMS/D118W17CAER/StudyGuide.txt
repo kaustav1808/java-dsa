@@ -1,0 +1,44 @@
+DAY 118 STUDY GUIDE: Week 17 consolidation and error review
+========================================================================================
+Week     : Week 17 - Interview Simulation: Arrays, Lists & Monotonic Structures
+Week goal: Timed, mixed-pattern practice on advanced array, list and monotonic-structure problems.
+Day type : Consolidation and error review
+Jira     : SCRUM-147  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-147)
+Package  : W17ISALMS.D118W17CAER
+
+1. WHAT TO STUDY TODAY
+
+   Action: Review all Week 17 solutions, update the Error Log, and re-solve any problem
+   that took over 45 minutes.
+
+2. PROBLEMS FOR TODAY
+
+   No new problems. Review everything solved this week:
+
+   - Find the Duplicate Number (Medium)  ->  W17ISALMS.D113FTDN.FindTheDuplicateNumber
+   - Sort List (Medium)  ->  W17ISALMS.D114SL.SortList
+   - Median of Two Sorted Arrays (Hard)  ->  W17ISALMS.D115MOTSA.MedianOfTwoSortedArrays
+   - Shortest Subarray with Sum at Least K (Hard)  ->  W17ISALMS.D116SSWSALK.ShortestSubarrayWithSumAtLeastK
+   - Largest Rectangle in Histogram (Hard)  ->  W17ISALMS.D117LRIH.LargestRectangleInHistogram
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Open your Error Log and list every problem from this week you missed or needed a
+      hint for.
+   b. Re-solve each of them from a blank file without looking at your old code; time
+      yourself.
+   c. For every problem of the week, write one line: pattern, key invariant, time and
+      space complexity.
+   d. Update the Error Log with root causes (why the bug happened), not symptoms.
+   e. If time is left, re-solve the hardest problem of the week once more, faster.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Every Week 17 problem re-solved cleanly; recurring mistake patterns identified.
+
+5. DONE CHECKLIST
+
+   [ ] Every missed problem of the week re-solved from scratch without hints
+   [ ] One-line pattern + complexity summary written for every problem of the week
+   [ ] Error Log updated with root causes
+   [ ] Jira task moved to Done

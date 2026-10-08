@@ -1,0 +1,45 @@
+DAY 100 STUDY GUIDE: Kadane's algorithm
+========================================================================================
+Week     : Week 15 - Greedy & Kadane-Style Subarray Patterns
+Week goal: Greedy choices with proofs, Kadane's algorithm and its product/circular variants.
+Day type : Learning and practice
+Jira     : SCRUM-129  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-129)
+Package  : W15GKSSP.D100KA
+
+1. WHAT TO STUDY TODAY
+
+   Running sum resets when it becomes negative; track the global best.
+
+   Key ideas to understand before coding (from today's problems):
+   - Kadane's algorithm: best ending here = max(x, bestEndingHere + x).
+
+2. PROBLEMS FOR TODAY
+
+   1) Medium 53. Maximum Subarray
+      Link    : https://leetcode.com/problems/maximum-subarray/
+      Package : W15GKSSP.D100KA.MaximumSubarray
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Solve in O(N) and handle all-negative arrays.
+
+5. DONE CHECKLIST
+
+   [ ] Maximum Subarray: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

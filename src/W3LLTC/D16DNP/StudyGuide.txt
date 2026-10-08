@@ -1,0 +1,52 @@
+DAY 16 STUDY GUIDE: Dummy node pattern
+========================================================================================
+Week     : Week 3 - Linked List Transformations & Cycles
+Week goal: Rewire pointers safely: reversal, dummy node, cycle detection, intersection and k-group reversal.
+Day type : Learning and practice
+Jira     : SCRUM-45  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-45)
+Package  : W3LLTC.D16DNP
+
+1. WHAT TO STUDY TODAY
+
+   Use a dummy head to remove special cases when the head changes; merge and partition
+   lists.
+
+   Key ideas to understand before coding (from today's problems):
+   - A dummy head node removes the special case for the first node.
+   - Build two lists with two dummy heads, then join them; terminate the second list.
+
+2. PROBLEMS FOR TODAY
+
+   1) Easy 21. Merge Two Sorted Lists
+      Link    : https://leetcode.com/problems/merge-two-sorted-lists/
+      Package : W3LLTC.D16DNP.MergeTwoSortedLists
+
+   2) Medium 86. Partition List
+      Link    : https://leetcode.com/problems/partition-list/
+      Package : W3LLTC.D16DNP.PartitionList
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Eliminate null-head edge cases and solve both problems with clean, branch-light code.
+
+5. DONE CHECKLIST
+
+   [ ] Merge Two Sorted Lists: solved, tests pass, complexity written
+   [ ] Partition List: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

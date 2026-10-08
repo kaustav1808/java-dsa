@@ -1,0 +1,46 @@
+DAY 119 STUDY GUIDE: Week 17 timed mock
+========================================================================================
+Week     : Week 17 - Interview Simulation: Arrays, Lists & Monotonic Structures
+Week goal: Timed, mixed-pattern practice on advanced array, list and monotonic-structure problems.
+Day type : Timed mock interview
+Jira     : SCRUM-148  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-148)
+Package  : W17ISALMS.D119W17TM
+
+1. WHAT TO STUDY TODAY
+
+   Action: Unseen Medium (30 min) + unseen Hard (45 min); explain approach, trade-offs
+   and edge cases aloud before coding.
+
+2. PROBLEMS FOR TODAY
+
+   No fixed problem. Choose an unseen problem of this week's pattern, for example one
+   you have not solved yet from W17ISALMS.AdditionalPractice:
+
+   - Medium 442. Find All Duplicates in an Array  ->  https://leetcode.com/problems/find-all-duplicates-in-an-array/
+   - Medium 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit  ->  https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
+   - Hard 32. Longest Valid Parentheses  ->  https://leetcode.com/problems/longest-valid-parentheses/
+   - Hard 224. Basic Calculator  ->  https://leetcode.com/problems/basic-calculator/
+   - Hard 480. Sliding Window Median  ->  https://leetcode.com/problems/sliding-window-median/
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Clear the desk and set a timer for the stated duration. No notes, no hints, no IDE
+      autocomplete if you can avoid it.
+   b. Pick a problem of this week's pattern that you have NOT solved yet (the week's
+      AdditionalPractice package is a good pool).
+   c. Talk out loud as in an interview: clarify inputs, give a brute force, state the
+      invariant, then code the optimal solution.
+   d. Test with your own examples, then state time and space complexity.
+   e. After the timer, review honestly: what slowed you down? Add it to the Error Log.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Both solved with verbal explanation; timing recorded against the 20-30 min (Medium)
+   and 40-45 min (Hard) targets.
+
+5. DONE CHECKLIST
+
+   [ ] Solved within the time limit (or noted exactly where time ran out)
+   [ ] Invariant and complexity explained out loud
+   [ ] Post-mock review added to the Error Log
+   [ ] Jira task moved to Done

@@ -1,0 +1,16 @@
+package W6HSMS.AdditionalPractice.DesignTwitter;
+
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+
+public class DesignTwitterTest {
+
+    @Test
+    @DisplayName("355. Design Twitter - example 1")
+    public void example1Test() {
+        DesignTwitter solution = new DesignTwitter();
+        assertNotNull(solution);
+        // TODO: replace with assertions for the problem's examples
+    }
+}

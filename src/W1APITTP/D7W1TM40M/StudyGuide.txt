@@ -1,0 +1,47 @@
+DAY 7 STUDY GUIDE: Week 1 timed mock (40 min)
+========================================================================================
+Week     : Week 1 - Array Pruning, Index Tricks & Two Pointers
+Week goal: Fluency with in-place array edits, converging and read/write pointers, and O(1)-space solutions.
+Day type : Timed mock interview
+Jira     : SCRUM-36  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-36)
+Package  : W1APITTP.D7W1TM40M
+
+1. WHAT TO STUDY TODAY
+
+   Action: Block 40 minutes. Solve an unseen Two Pointers problem, describing the
+   invariant out loud.
+
+2. PROBLEMS FOR TODAY
+
+   No fixed problem. Choose an unseen problem of this week's pattern, for example one
+   you have not solved yet from W1APITTP.AdditionalPractice:
+
+   - Easy 121. Best Time to Buy and Sell Stock  ★  ->  https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+   - Medium 238. Product of Array Except Self  ★  ->  https://leetcode.com/problems/product-of-array-except-self/
+   - Easy 283. Move Zeroes  ->  https://leetcode.com/problems/move-zeroes/
+   - Easy 88. Merge Sorted Array  ->  https://leetcode.com/problems/merge-sorted-array/
+   - Medium 189. Rotate Array  ->  https://leetcode.com/problems/rotate-array/
+   - Hard 41. First Missing Positive  ->  https://leetcode.com/problems/first-missing-positive/
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Clear the desk and set a timer for the stated duration. No notes, no hints, no IDE
+      autocomplete if you can avoid it.
+   b. Pick a problem of this week's pattern that you have NOT solved yet (the week's
+      AdditionalPractice package is a good pool).
+   c. Talk out loud as in an interview: clarify inputs, give a brute force, state the
+      invariant, then code the optimal solution.
+   d. Test with your own examples, then state time and space complexity.
+   e. After the timer, review honestly: what slowed you down? Add it to the Error Log.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Working solution plus a clear spoken invariant and complexity analysis within 40
+   minutes.
+
+5. DONE CHECKLIST
+
+   [ ] Solved within the time limit (or noted exactly where time ran out)
+   [ ] Invariant and complexity explained out loud
+   [ ] Post-mock review added to the Error Log
+   [ ] Jira task moved to Done

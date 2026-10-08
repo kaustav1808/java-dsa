@@ -1,0 +1,45 @@
+DAY 106 STUDY GUIDE: Dijkstra's algorithm
+========================================================================================
+Week     : Week 16 - Weighted Graphs & Minimum Spanning Trees
+Week goal: Dijkstra, bounded-stop shortest path, MST and graph/grid DP problems.
+Day type : Learning and practice
+Jira     : SCRUM-135  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-135)
+Package  : W16WGMST.D106DA
+
+1. WHAT TO STUDY TODAY
+
+   Min-heap of (distance, node); skip stale heap entries.
+
+   Key ideas to understand before coding (from today's problems):
+   - Dijkstra from k; the answer is the largest shortest distance.
+
+2. PROBLEMS FOR TODAY
+
+   1) Medium 743. Network Delay Time
+      Link    : https://leetcode.com/problems/network-delay-time/
+      Package : W16WGMST.D106DA.NetworkDelayTime
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Compute single-source shortest paths in O((V + E) log V).
+
+5. DONE CHECKLIST
+
+   [ ] Network Delay Time: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

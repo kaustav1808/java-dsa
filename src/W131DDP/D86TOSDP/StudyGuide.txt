@@ -1,0 +1,51 @@
+DAY 86 STUDY GUIDE: Take-or-skip DP
+========================================================================================
+Week     : Week 13 - 1D Dynamic Programming
+Week goal: Define states and recurrences for 1D DP, knapsack-style and sequence problems.
+Day type : Learning and practice
+Jira     : SCRUM-115  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-115)
+Package  : W131DDP.D86TOSDP
+
+1. WHAT TO STUDY TODAY
+
+   dp[i] = max(dp[i-1], dp[i-2] + nums[i]); circular variant handled by two runs.
+
+   Key ideas to understand before coding (from today's problems):
+   - dp[i] = max(dp[i-1], dp[i-2] + nums[i]) with two variables.
+   - Answer = max(rob houses 0..n-2, rob houses 1..n-1); handle n = 1 separately.
+
+2. PROBLEMS FOR TODAY
+
+   1) Medium 198. House Robber
+      Link    : https://leetcode.com/problems/house-robber/
+      Package : W131DDP.D86TOSDP.HouseRobber
+
+   2) Medium 213. House Robber II
+      Link    : https://leetcode.com/problems/house-robber-ii/
+      Package : W131DDP.D86TOSDP.HouseRobberII
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Solve House Robber and its circular variant in O(N) time, O(1) space.
+
+5. DONE CHECKLIST
+
+   [ ] House Robber: solved, tests pass, complexity written
+   [ ] House Robber II: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

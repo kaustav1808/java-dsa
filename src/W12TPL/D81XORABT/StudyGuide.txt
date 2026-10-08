@@ -1,0 +1,52 @@
+DAY 81 STUDY GUIDE: XOR and binary trie
+========================================================================================
+Week     : Week 12 - Tries & Prefix Lookups
+Week goal: Trie design, wildcard search, Trie + grid DFS and a binary XOR trie; plus core bit manipulation.
+Day type : Learning and practice
+Jira     : SCRUM-110  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-110)
+Package  : W12TPL.D81XORABT
+
+1. WHAT TO STUDY TODAY
+
+   XOR properties, then a bitwise trie over 32 bits to pick the opposite bit greedily.
+
+   Key ideas to understand before coding (from today's problems):
+   - XOR all values: pairs cancel out (a ^ a = 0).
+   - Binary trie of the numbers' bits (from bit 30 down); for each number walk the trie
+     preferring the opposite bit.
+
+2. PROBLEMS FOR TODAY
+
+   1) Easy 136. Single Number
+      Link    : https://leetcode.com/problems/single-number/
+      Package : W12TPL.D81XORABT.SingleNumber
+
+   2) Medium 421. Maximum XOR of Two Numbers in an Array
+      Link    : https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+      Package : W12TPL.D81XORABT.MaximumXOROfTwoNumbersInAnArray
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Find the maximum XOR pair in O(32 * N).
+
+5. DONE CHECKLIST
+
+   [ ] Single Number: solved, tests pass, complexity written
+   [ ] Maximum XOR of Two Numbers in an Array: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

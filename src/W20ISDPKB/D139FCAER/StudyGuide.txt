@@ -1,0 +1,46 @@
+DAY 139 STUDY GUIDE: Final consolidation and error review
+========================================================================================
+Week     : Week 20 - Interview Simulation: DP, Knapsack & Bitmask
+Week goal: Timed practice on knapsack variants, bitmask DP and hard string DP; final mock loop.
+Day type : Consolidation and error review
+Jira     : SCRUM-168  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-168)
+Package  : W20ISDPKB.D139FCAER
+
+1. WHAT TO STUDY TODAY
+
+   Action: Full review of the Error Log across all 20 weeks; re-solve your 10
+   most-missed problems from scratch.
+
+2. PROBLEMS FOR TODAY
+
+   No new problems. Today covers ALL 20 weeks: go through your whole Error Log and
+   pick your 10 most-missed problems (from any week) to re-solve from scratch.
+   This week's problems, for reference:
+
+   - Partition Equal Subset Sum (Medium)  ->  W20ISDPKB.D134PESS.PartitionEqualSubsetSum
+   - Decode Ways (Medium)  ->  W20ISDPKB.D135DW.DecodeWays
+   - Coin Change II (Medium)  ->  W20ISDPKB.D136CCII.CoinChangeII
+   - Partition to K Equal Sum Subsets (Medium)  ->  W20ISDPKB.D137PTKESS.PartitionToKEqualSumSubsets
+   - Regular Expression Matching (Hard)  ->  W20ISDPKB.D138REM.RegularExpressionMatching
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Open your Error Log and list every problem from this week you missed or needed a
+      hint for.
+   b. Re-solve each of them from a blank file without looking at your old code; time
+      yourself.
+   c. For every problem of the week, write one line: pattern, key invariant, time and
+      space complexity.
+   d. Update the Error Log with root causes (why the bug happened), not symptoms.
+   e. If time is left, re-solve the hardest problem of the week once more, faster.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Most-missed problems solved without hints; pattern cheat-sheet written.
+
+5. DONE CHECKLIST
+
+   [ ] Every missed problem of the week re-solved from scratch without hints
+   [ ] One-line pattern + complexity summary written for every problem of the week
+   [ ] Error Log updated with root causes
+   [ ] Jira task moved to Done

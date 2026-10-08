@@ -1,0 +1,51 @@
+DAY 92 STUDY GUIDE: Grid DP
+========================================================================================
+Week     : Week 14 - 2D Dynamic Programming
+Week goal: Grid DP, LCS, Edit Distance, state-machine DP and palindromic DP.
+Day type : Learning and practice
+Jira     : SCRUM-121  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-121)
+Package  : W142DDP.D92GDP
+
+1. WHAT TO STUDY TODAY
+
+   dp[r][c] from top and left; initialise the edges; obstacles contribute 0.
+
+   Key ideas to understand before coding (from today's problems):
+   - dp[r][c] = dp[r-1][c] + dp[r][c-1]; a single row array is enough.
+   - An obstacle cell contributes 0 paths; watch the start cell being blocked.
+
+2. PROBLEMS FOR TODAY
+
+   1) Medium 62. Unique Paths
+      Link    : https://leetcode.com/problems/unique-paths/
+      Package : W142DDP.D92GDP.UniquePaths
+
+   2) Medium 63. Unique Paths II
+      Link    : https://leetcode.com/problems/unique-paths-ii/
+      Package : W142DDP.D92GDP.UniquePathsII
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Compute unique paths with and without obstacles, then reduce to O(N) space.
+
+5. DONE CHECKLIST
+
+   [ ] Unique Paths: solved, tests pass, complexity written
+   [ ] Unique Paths II: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

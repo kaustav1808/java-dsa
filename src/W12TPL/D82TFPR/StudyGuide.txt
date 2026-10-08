@@ -1,0 +1,47 @@
+DAY 82 STUDY GUIDE: Trie for prefix replacement
+========================================================================================
+Week     : Week 12 - Tries & Prefix Lookups
+Week goal: Trie design, wildcard search, Trie + grid DFS and a binary XOR trie; plus core bit manipulation.
+Day type : Learning and practice
+Jira     : SCRUM-111  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-111)
+Package  : W12TPL.D82TFPR
+
+1. WHAT TO STUDY TODAY
+
+   Insert dictionary roots, then replace each word with its shortest root while
+   scanning.
+
+   Key ideas to understand before coding (from today's problems):
+   - Insert roots into a trie; for each word walk the trie and stop at the first
+     end-of-word node.
+
+2. PROBLEMS FOR TODAY
+
+   1) Medium 648. Replace Words
+      Link    : https://leetcode.com/problems/replace-words/
+      Package : W12TPL.D82TFPR.ReplaceWords
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Replace words in one pass per word using a Trie.
+
+5. DONE CHECKLIST
+
+   [ ] Replace Words: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

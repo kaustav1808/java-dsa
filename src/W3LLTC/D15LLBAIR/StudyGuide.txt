@@ -1,0 +1,53 @@
+DAY 15 STUDY GUIDE: Linked list basics and iterative reversal
+========================================================================================
+Week     : Week 3 - Linked List Transformations & Cycles
+Week goal: Rewire pointers safely: reversal, dummy node, cycle detection, intersection and k-group reversal.
+Day type : Learning and practice
+Jira     : SCRUM-44  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-44)
+Package  : W3LLTC.D15LLBAIR
+
+1. WHAT TO STUDY TODAY
+
+   Node/reference model; reverse with prev, curr, next; reverse a sub-range between
+   positions left and right.
+
+   Key ideas to understand before coding (from today's problems):
+   - Iterative: prev, curr, next pointers; or recursive.
+   - Dummy node, walk to the node before 'left', then head-insert each following node.
+
+2. PROBLEMS FOR TODAY
+
+   1) Easy 206. Reverse Linked List
+      Link    : https://leetcode.com/problems/reverse-linked-list/
+      Package : W3LLTC.D15LLBAIR.ReverseLinkedList
+
+   2) Medium 92. Reverse Linked List II
+      Link    : https://leetcode.com/problems/reverse-linked-list-ii/
+      Package : W3LLTC.D15LLBAIR.ReverseLinkedListII
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Control three references fluently and never lose or cycle nodes. Both problems in
+   O(N) time, O(1) space.
+
+5. DONE CHECKLIST
+
+   [ ] Reverse Linked List: solved, tests pass, complexity written
+   [ ] Reverse Linked List II: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

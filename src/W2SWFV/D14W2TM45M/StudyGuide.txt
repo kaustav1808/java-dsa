@@ -1,0 +1,43 @@
+DAY 14 STUDY GUIDE: Week 2 timed mock (45 min)
+========================================================================================
+Week     : Week 2 - Sliding Window (Fixed & Variable)
+Week goal: Recognise and implement fixed and variable windows with correct shrink/expand invariants in O(N).
+Day type : Timed mock interview
+Jira     : SCRUM-43  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-43)
+Package  : W2SWFV.D14W2TM45M
+
+1. WHAT TO STUDY TODAY
+
+   Action: Solve an unseen Sliding Window Medium/Hard problem in 45 minutes.
+
+2. PROBLEMS FOR TODAY
+
+   No fixed problem. Choose an unseen problem of this week's pattern, for example one
+   you have not solved yet from W2SWFV.AdditionalPractice:
+
+   - Medium 567. Permutation in String  ★  ->  https://leetcode.com/problems/permutation-in-string/
+   - Medium 209. Minimum Size Subarray Sum  ->  https://leetcode.com/problems/minimum-size-subarray-sum/
+   - Medium 1004. Max Consecutive Ones III  ->  https://leetcode.com/problems/max-consecutive-ones-iii/
+   - Medium 904. Fruit Into Baskets  ->  https://leetcode.com/problems/fruit-into-baskets/
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Clear the desk and set a timer for the stated duration. No notes, no hints, no IDE
+      autocomplete if you can avoid it.
+   b. Pick a problem of this week's pattern that you have NOT solved yet (the week's
+      AdditionalPractice package is a good pool).
+   c. Talk out loud as in an interview: clarify inputs, give a brute force, state the
+      invariant, then code the optimal solution.
+   d. Test with your own examples, then state time and space complexity.
+   e. After the timer, review honestly: what slowed you down? Add it to the Error Log.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Working solution, stated invariant, and complexity within 45 minutes.
+
+5. DONE CHECKLIST
+
+   [ ] Solved within the time limit (or noted exactly where time ran out)
+   [ ] Invariant and complexity explained out loud
+   [ ] Post-mock review added to the Error Log
+   [ ] Jira task moved to Done

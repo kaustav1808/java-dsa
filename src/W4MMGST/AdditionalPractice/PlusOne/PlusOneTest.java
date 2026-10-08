@@ -1,0 +1,16 @@
+package W4MMGST.AdditionalPractice.PlusOne;
+
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+
+public class PlusOneTest {
+
+    @Test
+    @DisplayName("66. Plus One - example 1")
+    public void example1Test() {
+        PlusOne solution = new PlusOne();
+        assertNotNull(solution);
+        // TODO: replace with assertions for the problem's examples
+    }
+}

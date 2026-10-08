@@ -1,0 +1,44 @@
+DAY 132 STUDY GUIDE: Week 19 consolidation and error review
+========================================================================================
+Week     : Week 19 - Interview Simulation: Advanced Graphs
+Week goal: Timed practice on BFS, topological, shortest-path and weighted-graph modelling.
+Day type : Consolidation and error review
+Jira     : SCRUM-161  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-161)
+Package  : W19ISAG.D132W19CAER
+
+1. WHAT TO STUDY TODAY
+
+   Action: Review all Week 19 solutions and update the Error Log; re-solve slow
+   problems.
+
+2. PROBLEMS FOR TODAY
+
+   No new problems. Review everything solved this week:
+
+   - Minimum Height Trees (Medium)  ->  W19ISAG.D127MHT.MinimumHeightTrees
+   - Evaluate Division (Medium)  ->  W19ISAG.D128ED.EvaluateDivision
+   - Bus Routes (Hard)  ->  W19ISAG.D129BR.BusRoutes
+   - Word Ladder (Hard)  ->  W19ISAG.D130WL.WordLadder
+   - Path With Minimum Effort (Medium)  ->  W19ISAG.D131PWME.PathWithMinimumEffort
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Open your Error Log and list every problem from this week you missed or needed a
+      hint for.
+   b. Re-solve each of them from a blank file without looking at your old code; time
+      yourself.
+   c. For every problem of the week, write one line: pattern, key invariant, time and
+      space complexity.
+   d. Update the Error Log with root causes (why the bug happened), not symptoms.
+   e. If time is left, re-solve the hardest problem of the week once more, faster.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Graph modelling choices (BFS, Dijkstra, topo, DSU) explained for each problem.
+
+5. DONE CHECKLIST
+
+   [ ] Every missed problem of the week re-solved from scratch without hints
+   [ ] One-line pattern + complexity summary written for every problem of the week
+   [ ] Error Log updated with root causes
+   [ ] Jira task moved to Done

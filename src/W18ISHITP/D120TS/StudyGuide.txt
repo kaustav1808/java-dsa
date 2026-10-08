@@ -1,0 +1,49 @@
+DAY 120 STUDY GUIDE: Task Scheduler
+========================================================================================
+Week     : Week 18 - Interview Simulation: Heaps, Intervals & Tree Paths
+Week goal: Timed practice on heaps, sweep line, interval greedy and tree path problems.
+Day type : Learning and practice
+Jira     : SCRUM-149  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-149)
+Package  : W18ISHITP.D120TS
+
+1. WHAT TO STUDY TODAY
+
+   Greedy by max frequency, or a max-heap with a cooldown queue. Daily loop (90 min): 15
+   min review Error Log and re-trace past failures; 45 min timed solve (talk through
+   approach, trade-offs and edge cases before coding); 30 min review, optimise and log
+   bugs.
+
+   Key ideas to understand before coding (from today's problems):
+   - Formula: max(tasks.length, (maxFreq - 1) * (n + 1) + countOfTasksWithMaxFreq); or
+     simulate with a max-heap and a cooldown queue.
+
+2. PROBLEMS FOR TODAY
+
+   1) Medium 621. Task Scheduler
+      Link    : https://leetcode.com/problems/task-scheduler/
+      Package : W18ISHITP.D120TS.TaskScheduler
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Derive the formula and the heap simulation; compare both.
+
+5. DONE CHECKLIST
+
+   [ ] Task Scheduler: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

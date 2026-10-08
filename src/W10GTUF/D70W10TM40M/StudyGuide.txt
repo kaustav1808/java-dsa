@@ -1,0 +1,44 @@
+DAY 70 STUDY GUIDE: Week 10 timed mock (40 min)
+========================================================================================
+Week     : Week 10 - Graph Traversal & Union-Find
+Week goal: Grid/graph DFS-BFS, graph cloning, multi-source BFS and a reusable DSU.
+Day type : Timed mock interview
+Jira     : SCRUM-99  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-99)
+Package  : W10GTUF.D70W10TM40M
+
+1. WHAT TO STUDY TODAY
+
+   Action: Solve an unseen network-connectivity problem in 40 minutes.
+
+2. PROBLEMS FOR TODAY
+
+   No fixed problem. Choose an unseen problem of this week's pattern, for example one
+   you have not solved yet from W10GTUF.AdditionalPractice:
+
+   - Medium 417. Pacific Atlantic Water Flow  ★  ->  https://leetcode.com/problems/pacific-atlantic-water-flow/
+   - Medium 695. Max Area of Island  ★  ->  https://leetcode.com/problems/max-area-of-island/
+   - Medium 785. Is Graph Bipartite  ->  https://leetcode.com/problems/is-graph-bipartite/
+   - Medium 721. Accounts Merge  ->  https://leetcode.com/problems/accounts-merge/
+   - Medium 547. Number of Provinces  ->  https://leetcode.com/problems/number-of-provinces/
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Clear the desk and set a timer for the stated duration. No notes, no hints, no IDE
+      autocomplete if you can avoid it.
+   b. Pick a problem of this week's pattern that you have NOT solved yet (the week's
+      AdditionalPractice package is a good pool).
+   c. Talk out loud as in an interview: clarify inputs, give a brute force, state the
+      invariant, then code the optimal solution.
+   d. Test with your own examples, then state time and space complexity.
+   e. After the timer, review honestly: what slowed you down? Add it to the Error Log.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Working solution within 40 minutes, choosing BFS/DFS vs DSU with justification.
+
+5. DONE CHECKLIST
+
+   [ ] Solved within the time limit (or noted exactly where time ran out)
+   [ ] Invariant and complexity explained out loud
+   [ ] Post-mock review added to the Error Log
+   [ ] Jira task moved to Done

@@ -1,0 +1,45 @@
+DAY 23 STUDY GUIDE: Spiral traversal with shrinking bounds
+========================================================================================
+Week     : Week 4 - Matrix Manipulation & Grid State Tracking
+Week goal: Index mapping, boundary tracking and in-place state flags on 2D grids; plus core math-and-geometry utilities.
+Day type : Learning and practice
+Jira     : SCRUM-52  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-52)
+Package  : W4MMGST.D23STWSB
+
+1. WHAT TO STUDY TODAY
+
+   Maintain top, bottom, left, right bounds and re-check bounds before each direction.
+
+   Key ideas to understand before coding (from today's problems):
+   - Keep top/bottom/left/right bounds and shrink them after each side is walked.
+
+2. PROBLEMS FOR TODAY
+
+   1) Medium 54. Spiral Matrix
+      Link    : https://leetcode.com/problems/spiral-matrix/
+      Package : W4MMGST.D23STWSB.SpiralMatrix
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Traverse any M x N matrix (including single row/column) without overruns.
+
+5. DONE CHECKLIST
+
+   [ ] Spiral Matrix: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

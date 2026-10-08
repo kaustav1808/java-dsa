@@ -1,0 +1,44 @@
+DAY 76 STUDY GUIDE: Week 11 consolidation and error review
+========================================================================================
+Week     : Week 11 - Topological Sort & Dependency Graphs
+Week goal: Kahn's algorithm, cycle detection, Alien Dictionary and tree path DFS.
+Day type : Consolidation and error review
+Jira     : SCRUM-105  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-105)
+Package  : W11TSDG.D76W11CAER
+
+1. WHAT TO STUDY TODAY
+
+   Action: Re-verify the edge cases in your Alien Dictionary solution.
+
+2. PROBLEMS FOR TODAY
+
+   No new problems. Review everything solved this week:
+
+   - Course Schedule (Medium)  ->  W11TSDG.D71TSKA.CourseSchedule
+   - Course Schedule II (Medium)  ->  W11TSDG.D72TOO.CourseScheduleII
+   - Alien Dictionary (Hard)  ->  W11TSDG.D73AD.AlienDictionary
+   - Diameter of Binary Tree (Easy)  ->  W11TSDG.D74TPDFSDAMPS.DiameterOfBinaryTree
+   - Binary Tree Maximum Path Sum (Hard)  ->  W11TSDG.D74TPDFSDAMPS.BinaryTreeMaximumPathSum
+   - Find Eventual Safe States (Medium)  ->  W11TSDG.D75SNWTSDFS.FindEventualSafeStates
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Open your Error Log and list every problem from this week you missed or needed a
+      hint for.
+   b. Re-solve each of them from a blank file without looking at your old code; time
+      yourself.
+   c. For every problem of the week, write one line: pattern, key invariant, time and
+      space complexity.
+   d. Update the Error Log with root causes (why the bug happened), not symptoms.
+   e. If time is left, re-solve the hardest problem of the week once more, faster.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Alien Dictionary passes invalid-prefix, duplicate-edge and single-word cases.
+
+5. DONE CHECKLIST
+
+   [ ] Every missed problem of the week re-solved from scratch without hints
+   [ ] One-line pattern + complexity summary written for every problem of the week
+   [ ] Error Log updated with root causes
+   [ ] Jira task moved to Done

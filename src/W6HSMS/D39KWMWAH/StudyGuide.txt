@@ -1,0 +1,45 @@
+DAY 39 STUDY GUIDE: K-way merge with a heap
+========================================================================================
+Week     : Week 6 - Heaps, Stacks & Monotonic Structures
+Week goal: Use PriorityQueue, monotonic stack and deque for top-K, running median, K-way merge and window maximum.
+Day type : Learning and practice
+Jira     : SCRUM-68  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-68)
+Package  : W6HSMS.D39KWMWAH
+
+1. WHAT TO STUDY TODAY
+
+   Seed a min-heap with each list head and pop/push the next node.
+
+   Key ideas to understand before coding (from today's problems):
+   - Min-heap of the current head of each list: O(N log k).
+
+2. PROBLEMS FOR TODAY
+
+   1) Hard 23. Merge k Sorted Lists
+      Link    : https://leetcode.com/problems/merge-k-sorted-lists/
+      Package : W6HSMS.D39KWMWAH.MergeKSortedLists
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Merge K sorted lists in O(N log K) time.
+
+5. DONE CHECKLIST
+
+   [ ] Merge k Sorted Lists: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

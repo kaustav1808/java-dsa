@@ -1,0 +1,45 @@
+DAY 98 STUDY GUIDE: Week 14 timed mock (50 min)
+========================================================================================
+Week     : Week 14 - 2D Dynamic Programming
+Week goal: Grid DP, LCS, Edit Distance, state-machine DP and palindromic DP.
+Day type : Timed mock interview
+Jira     : SCRUM-127  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-127)
+Package  : W142DDP.D98W14TM50M
+
+1. WHAT TO STUDY TODAY
+
+   Action: Solve an unseen 2D string-alignment DP problem in 50 minutes.
+
+2. PROBLEMS FOR TODAY
+
+   No fixed problem. Choose an unseen problem of this week's pattern, for example one
+   you have not solved yet from W142DDP.AdditionalPractice:
+
+   - Medium 494. Target Sum  ★  ->  https://leetcode.com/problems/target-sum/
+   - Medium 97. Interleaving String  ★  ->  https://leetcode.com/problems/interleaving-string/
+   - Hard 115. Distinct Subsequences  ★  ->  https://leetcode.com/problems/distinct-subsequences/
+   - Hard 312. Burst Balloons  ★  ->  https://leetcode.com/problems/burst-balloons/
+   - Medium 64. Minimum Path Sum  ->  https://leetcode.com/problems/minimum-path-sum/
+   - Medium 221. Maximal Square  ->  https://leetcode.com/problems/maximal-square/
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Clear the desk and set a timer for the stated duration. No notes, no hints, no IDE
+      autocomplete if you can avoid it.
+   b. Pick a problem of this week's pattern that you have NOT solved yet (the week's
+      AdditionalPractice package is a good pool).
+   c. Talk out loud as in an interview: clarify inputs, give a brute force, state the
+      invariant, then code the optimal solution.
+   d. Test with your own examples, then state time and space complexity.
+   e. After the timer, review honestly: what slowed you down? Add it to the Error Log.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Working solution within 50 minutes with the table described first.
+
+5. DONE CHECKLIST
+
+   [ ] Solved within the time limit (or noted exactly where time ran out)
+   [ ] Invariant and complexity explained out loud
+   [ ] Post-mock review added to the Error Log
+   [ ] Jira task moved to Done

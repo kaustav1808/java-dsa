@@ -1,0 +1,60 @@
+DAY 38 STUDY GUIDE: Monotonic stack and monotonic deque
+========================================================================================
+Week     : Week 6 - Heaps, Stacks & Monotonic Structures
+Week goal: Use PriorityQueue, monotonic stack and deque for top-K, running median, K-way merge and window maximum.
+Day type : Learning and practice
+Jira     : SCRUM-67  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-67)
+Package  : W6HSMS.D38MSAMD
+
+1. WHAT TO STUDY TODAY
+
+   Stack basics, then a monotonic stack for next-greater problems, then a decreasing
+   deque of indices for window maximums.
+
+   Key ideas to understand before coding (from today's problems):
+   - Push openers on a stack; on a closer, the top must be its partner.
+   - Monotonic decreasing stack of indices: when a warmer day arrives, pop and fill in
+     the waits.
+   - Monotonic decreasing deque of indices: O(n) overall.
+
+2. PROBLEMS FOR TODAY
+
+   1) Easy 20. Valid Parentheses
+      Link    : https://leetcode.com/problems/valid-parentheses/
+      Package : W6HSMS.D38MSAMD.ValidParentheses
+
+   2) Medium 739. Daily Temperatures
+      Link    : https://leetcode.com/problems/daily-temperatures/
+      Package : W6HSMS.D38MSAMD.DailyTemperatures
+
+   3) Hard 239. Sliding Window Maximum
+      Link    : https://leetcode.com/problems/sliding-window-maximum/
+      Package : W6HSMS.D38MSAMD.SlidingWindowMaximum
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Explain when to pop and why each index is pushed and popped at most once (O(N)).
+   Three problems, easiest first.
+
+5. DONE CHECKLIST
+
+   [ ] Valid Parentheses: solved, tests pass, complexity written
+   [ ] Daily Temperatures: solved, tests pass, complexity written
+   [ ] Sliding Window Maximum: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

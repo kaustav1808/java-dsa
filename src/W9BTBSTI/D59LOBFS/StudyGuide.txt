@@ -1,0 +1,52 @@
+DAY 59 STUDY GUIDE: Level-order BFS
+========================================================================================
+Week     : Week 9 - Binary Trees & BST Invariants
+Week goal: Tree recursion, LCA, BFS levels, BST validation and serialization.
+Day type : Learning and practice
+Jira     : SCRUM-88  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-88)
+Package  : W9BTBSTI.D59LOBFS
+
+1. WHAT TO STUDY TODAY
+
+   Queue with a frozen level size per iteration (ArrayDeque).
+
+   Key ideas to understand before coding (from today's problems):
+   - BFS with a queue, processing exactly queue.size() nodes per level.
+   - BFS keeping the last node of each level, or DFS visiting right first and recording
+     the first node at each depth.
+
+2. PROBLEMS FOR TODAY
+
+   1) Medium 102. Binary Tree Level Order Traversal
+      Link    : https://leetcode.com/problems/binary-tree-level-order-traversal/
+      Package : W9BTBSTI.D59LOBFS.BinaryTreeLevelOrderTraversal
+
+   2) Medium 199. Binary Tree Right Side View
+      Link    : https://leetcode.com/problems/binary-tree-right-side-view/
+      Package : W9BTBSTI.D59LOBFS.BinaryTreeRightSideView
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Process trees level by level and extract per-level views in O(N).
+
+5. DONE CHECKLIST
+
+   [ ] Binary Tree Level Order Traversal: solved, tests pass, complexity written
+   [ ] Binary Tree Right Side View: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done
