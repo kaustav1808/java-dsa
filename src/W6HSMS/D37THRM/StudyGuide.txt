@@ -1,0 +1,47 @@
+DAY 37 STUDY GUIDE: Two heaps: running median
+========================================================================================
+Week     : Week 6 - Heaps, Stacks & Monotonic Structures
+Week goal: Use PriorityQueue, monotonic stack and deque for top-K, running median, K-way merge and window maximum.
+Day type : Learning and practice
+Jira     : SCRUM-66  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-66)
+Package  : W6HSMS.D37THRM
+
+1. WHAT TO STUDY TODAY
+
+   Max-heap for the lower half, min-heap for the upper half; rebalance after each
+   insert.
+
+   Key ideas to understand before coding (from today's problems):
+   - Two heaps: a max-heap for the lower half and a min-heap for the upper half, kept
+     balanced in size.
+
+2. PROBLEMS FOR TODAY
+
+   1) Hard 295. Find Median from Data Stream
+      Link    : https://leetcode.com/problems/find-median-from-data-stream/
+      Package : W6HSMS.D37THRM.FindMedianFromDataStream
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Insert in O(log N) and read the median in O(1) with balanced heaps.
+
+5. DONE CHECKLIST
+
+   [ ] Find Median from Data Stream: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

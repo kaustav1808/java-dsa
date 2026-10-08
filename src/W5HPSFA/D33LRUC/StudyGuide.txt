@@ -1,0 +1,47 @@
+DAY 33 STUDY GUIDE: LRU Cache
+========================================================================================
+Week     : Week 5 - Hashing, Prefix Sums & Frequency Analysis
+Week goal: Use HashMaps/HashSets and prefix sums to remove nested loops; build an O(1) LRU Cache.
+Day type : Learning and practice
+Jira     : SCRUM-62  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-62)
+Package  : W5HPSFA.D33LRUC
+
+1. WHAT TO STUDY TODAY
+
+   HashMap plus doubly linked list with dummy head/tail; move-to-front on access, evict
+   from the tail.
+
+   Key ideas to understand before coding (from today's problems):
+   - HashMap key -> node plus a doubly linked list ordered by recency (or LinkedHashMap
+     with access order).
+
+2. PROBLEMS FOR TODAY
+
+   1) Medium 146. LRU Cache
+      Link    : https://leetcode.com/problems/lru-cache/
+      Package : W5HPSFA.D33LRUC.LRUCache
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Implement get/put in O(1) with correct pointer updates.
+
+5. DONE CHECKLIST
+
+   [ ] LRU Cache: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

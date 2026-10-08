@@ -1,0 +1,44 @@
+DAY 125 STUDY GUIDE: Week 18 consolidation and error review
+========================================================================================
+Week     : Week 18 - Interview Simulation: Heaps, Intervals & Tree Paths
+Week goal: Timed practice on heaps, sweep line, interval greedy and tree path problems.
+Day type : Consolidation and error review
+Jira     : SCRUM-154  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-154)
+Package  : W18ISHITP.D125W18CAER
+
+1. WHAT TO STUDY TODAY
+
+   Action: Review all Week 18 solutions and update the Error Log; re-solve slow
+   problems.
+
+2. PROBLEMS FOR TODAY
+
+   No new problems. Review everything solved this week:
+
+   - Task Scheduler (Medium)  ->  W18ISHITP.D120TS.TaskScheduler
+   - Kth Largest Element in an Array (Medium)  ->  W18ISHITP.D121KLEIAA.KthLargestElementInAnArray
+   - The Skyline Problem (Hard)  ->  W18ISHITP.D122TSP.TheSkylineProblem
+   - Non-overlapping Intervals (Medium)  ->  W18ISHITP.D123NOI.NonOverlappingIntervals
+   - Path Sum III (Medium)  ->  W18ISHITP.D124PSIII.PathSumIII
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Open your Error Log and list every problem from this week you missed or needed a
+      hint for.
+   b. Re-solve each of them from a blank file without looking at your old code; time
+      yourself.
+   c. For every problem of the week, write one line: pattern, key invariant, time and
+      space complexity.
+   d. Update the Error Log with root causes (why the bug happened), not symptoms.
+   e. If time is left, re-solve the hardest problem of the week once more, faster.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Heap, sweep and tree-path patterns recalled without hints.
+
+5. DONE CHECKLIST
+
+   [ ] Every missed problem of the week re-solved from scratch without hints
+   [ ] One-line pattern + complexity summary written for every problem of the week
+   [ ] Error Log updated with root causes
+   [ ] Jira task moved to Done

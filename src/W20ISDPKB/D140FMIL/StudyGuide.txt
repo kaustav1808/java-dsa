@@ -1,0 +1,45 @@
+DAY 140 STUDY GUIDE: Final mock interview loop
+========================================================================================
+Week     : Week 20 - Interview Simulation: DP, Knapsack & Bitmask
+Week goal: Timed practice on knapsack variants, bitmask DP and hard string DP; final mock loop.
+Day type : Timed mock interview
+Jira     : SCRUM-169  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-169)
+Package  : W20ISDPKB.D140FMIL
+
+1. WHAT TO STUDY TODAY
+
+   Action: Two back-to-back sessions: Medium in 20-30 min and Hard in 40-45 min,
+   narrating approach, trade-offs and complexity like a real interview.
+
+2. PROBLEMS FOR TODAY
+
+   No fixed problem. Choose an unseen problem of this week's pattern, for example one
+   you have not solved yet from W20ISDPKB.AdditionalPractice:
+
+   - Medium 474. Ones and Zeroes  ->  https://leetcode.com/problems/ones-and-zeroes/
+   - Medium 1049. Last Stone Weight II  ->  https://leetcode.com/problems/last-stone-weight-ii/
+   - Hard 44. Wildcard Matching  ->  https://leetcode.com/problems/wildcard-matching/
+   - Hard 847. Shortest Path Visiting All Nodes  ->  https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+   - Hard 943. Find the Shortest Superstring  ->  https://leetcode.com/problems/find-the-shortest-superstring/
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Clear the desk and set a timer for the stated duration. No notes, no hints, no IDE
+      autocomplete if you can avoid it.
+   b. Pick a problem of this week's pattern that you have NOT solved yet (the week's
+      AdditionalPractice package is a good pool).
+   c. Talk out loud as in an interview: clarify inputs, give a brute force, state the
+      invariant, then code the optimal solution.
+   d. Test with your own examples, then state time and space complexity.
+   e. After the timer, review honestly: what slowed you down? Add it to the Error Log.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Both solved with clear communication; remaining weak areas listed.
+
+5. DONE CHECKLIST
+
+   [ ] Solved within the time limit (or noted exactly where time ran out)
+   [ ] Invariant and complexity explained out loud
+   [ ] Post-mock review added to the Error Log
+   [ ] Jira task moved to Done

@@ -1,0 +1,45 @@
+DAY 83 STUDY GUIDE: Week 12 consolidation and error review
+========================================================================================
+Week     : Week 12 - Tries & Prefix Lookups
+Week goal: Trie design, wildcard search, Trie + grid DFS and a binary XOR trie; plus core bit manipulation.
+Day type : Consolidation and error review
+Jira     : SCRUM-112  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-112)
+Package  : W12TPL.D83W12CAER
+
+1. WHAT TO STUDY TODAY
+
+   Action: Review your TrieNode class and iterative vs recursive implementations; clean
+   up unused references.
+
+2. PROBLEMS FOR TODAY
+
+   No new problems. Review everything solved this week:
+
+   - Implement Trie (Prefix Tree) (Medium)  ->  W12TPL.D78TF.ImplementTriePrefixTree
+   - Design Add and Search Words Data Structure (Medium)  ->  W12TPL.D79TWWS.DesignAddAndSearchWordsDataStructure
+   - Word Search II (Hard)  ->  W12TPL.D80TGDFS.WordSearchII
+   - Single Number (Easy)  ->  W12TPL.D81XORABT.SingleNumber
+   - Maximum XOR of Two Numbers in an Array (Medium)  ->  W12TPL.D81XORABT.MaximumXOROfTwoNumbersInAnArray
+   - Replace Words (Medium)  ->  W12TPL.D82TFPR.ReplaceWords
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Open your Error Log and list every problem from this week you missed or needed a
+      hint for.
+   b. Re-solve each of them from a blank file without looking at your old code; time
+      yourself.
+   c. For every problem of the week, write one line: pattern, key invariant, time and
+      space complexity.
+   d. Update the Error Log with root causes (why the bug happened), not symptoms.
+   e. If time is left, re-solve the hardest problem of the week once more, faster.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Reusable Trie template written and tested.
+
+5. DONE CHECKLIST
+
+   [ ] Every missed problem of the week re-solved from scratch without hints
+   [ ] One-line pattern + complexity summary written for every problem of the week
+   [ ] Error Log updated with root causes
+   [ ] Jira task moved to Done

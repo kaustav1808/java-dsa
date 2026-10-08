@@ -1,0 +1,47 @@
+DAY 56 STUDY GUIDE: Week 8 timed mock (45 min)
+========================================================================================
+Week     : Week 8 - Intervals & Backtracking
+Week goal: Sort-and-sweep interval problems and backtracking with pruning for subsets, permutations and grid search.
+Day type : Timed mock interview
+Jira     : SCRUM-85  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-85)
+Package  : W8IB.D56W8TM45M
+
+1. WHAT TO STUDY TODAY
+
+   Action: Code an unseen permutation or subset search problem in 45 minutes.
+
+2. PROBLEMS FOR TODAY
+
+   No fixed problem. Choose an unseen problem of this week's pattern, for example one
+   you have not solved yet from W8IB.AdditionalPractice:
+
+   - Medium 22. Generate Parentheses  ★  ->  https://leetcode.com/problems/generate-parentheses/
+   - Medium 17. Letter Combinations of a Phone Number  ★  ->  https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+   - Medium 40. Combination Sum II  ★  ->  https://leetcode.com/problems/combination-sum-ii/
+   - Medium 90. Subsets II  ★  ->  https://leetcode.com/problems/subsets-ii/
+   - Medium 131. Palindrome Partitioning  ★  ->  https://leetcode.com/problems/palindrome-partitioning/
+   - Hard 51. N-Queens  ★  ->  https://leetcode.com/problems/n-queens/
+   - Medium 47. Permutations II  ->  https://leetcode.com/problems/permutations-ii/
+   - Medium 986. Interval List Intersections  ->  https://leetcode.com/problems/interval-list-intersections/
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Clear the desk and set a timer for the stated duration. No notes, no hints, no IDE
+      autocomplete if you can avoid it.
+   b. Pick a problem of this week's pattern that you have NOT solved yet (the week's
+      AdditionalPractice package is a good pool).
+   c. Talk out loud as in an interview: clarify inputs, give a brute force, state the
+      invariant, then code the optimal solution.
+   d. Test with your own examples, then state time and space complexity.
+   e. After the timer, review honestly: what slowed you down? Add it to the Error Log.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Working solution within 45 minutes with duplicates handled.
+
+5. DONE CHECKLIST
+
+   [ ] Solved within the time limit (or noted exactly where time ran out)
+   [ ] Invariant and complexity explained out loud
+   [ ] Post-mock review added to the Error Log
+   [ ] Jira task moved to Done

@@ -1,0 +1,44 @@
+DAY 111 STUDY GUIDE: Week 16 consolidation and error review
+========================================================================================
+Week     : Week 16 - Weighted Graphs & Minimum Spanning Trees
+Week goal: Dijkstra, bounded-stop shortest path, MST and graph/grid DP problems.
+Day type : Consolidation and error review
+Jira     : SCRUM-140  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-140)
+Package  : W16WGMST.D111W16CAER
+
+1. WHAT TO STUDY TODAY
+
+   Action: Re-code Dijkstra from scratch and verify distance updates and stale-entry
+   handling.
+
+2. PROBLEMS FOR TODAY
+
+   No new problems. Review everything solved this week:
+
+   - Network Delay Time (Medium)  ->  W16WGMST.D106DA.NetworkDelayTime
+   - Cheapest Flights Within K Stops (Medium)  ->  W16WGMST.D107SPWAMKS.CheapestFlightsWithinKStops
+   - Min Cost to Connect All Points (Medium)  ->  W16WGMST.D108MST.MinCostToConnectAllPoints
+   - Longest Increasing Path in a Matrix (Hard)  ->  W16WGMST.D109DFSWMOAG.LongestIncreasingPathInAMatrix
+   - Surrounded Regions (Medium)  ->  W16WGMST.D110BCR.SurroundedRegions
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Open your Error Log and list every problem from this week you missed or needed a
+      hint for.
+   b. Re-solve each of them from a blank file without looking at your old code; time
+      yourself.
+   c. For every problem of the week, write one line: pattern, key invariant, time and
+      space complexity.
+   d. Update the Error Log with root causes (why the bug happened), not symptoms.
+   e. If time is left, re-solve the hardest problem of the week once more, faster.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Dijkstra template written from memory and tested.
+
+5. DONE CHECKLIST
+
+   [ ] Every missed problem of the week re-solved from scratch without hints
+   [ ] One-line pattern + complexity summary written for every problem of the week
+   [ ] Error Log updated with root causes
+   [ ] Jira task moved to Done

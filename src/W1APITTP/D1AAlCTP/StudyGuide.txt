@@ -1,0 +1,55 @@
+DAY 1 STUDY GUIDE: Arrays vs ArrayList + converging two pointers
+========================================================================================
+Week     : Week 1 - Array Pruning, Index Tricks & Two Pointers
+Week goal: Fluency with in-place array edits, converging and read/write pointers, and O(1)-space solutions.
+Day type : Learning and practice
+Jira     : SCRUM-30  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-30)
+Package  : W1APITTP.D1AAlCTP
+
+1. WHAT TO STUDY TODAY
+
+   Memory layout of int[] vs ArrayList<Integer> and auto-boxing cost in loops.
+   Converging (left/right) two pointers; trace both pointers by hand before coding.
+
+   Key ideas to understand before coding (from today's problems):
+   - Converging two pointers that skip non-alphanumeric characters: O(N) time, O(1)
+     space.
+   - Converging two pointers: if the sum is too small move left up, if too big move
+     right down.
+
+2. PROBLEMS FOR TODAY
+
+   1) Easy 125. Valid Palindrome
+      Link    : https://leetcode.com/problems/valid-palindrome/
+      Package : W1APITTP.D1AAlCTP.ValidPalindrome
+
+   2) Medium 167. Two Sum II - Input Array Is Sorted
+      Link    : https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+      Package : W1APITTP.D1AAlCTP.TwoSumIIInputArrayIsSorted
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Explain why int[] is contiguous and cache-friendly while ArrayList<Integer> holds
+   boxed objects. Solve both problems in O(N) time and O(1) space.
+
+5. DONE CHECKLIST
+
+   [ ] Valid Palindrome: solved, tests pass, complexity written
+   [ ] Two Sum II - Input Array Is Sorted: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

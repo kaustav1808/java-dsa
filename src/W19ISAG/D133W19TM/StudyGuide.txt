@@ -1,0 +1,43 @@
+DAY 133 STUDY GUIDE: Week 19 timed mock
+========================================================================================
+Week     : Week 19 - Interview Simulation: Advanced Graphs
+Week goal: Timed practice on BFS, topological, shortest-path and weighted-graph modelling.
+Day type : Timed mock interview
+Jira     : SCRUM-162  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-162)
+Package  : W19ISAG.D133W19TM
+
+1. WHAT TO STUDY TODAY
+
+   Action: Unseen graph Medium (30 min) + Hard (45 min).
+
+2. PROBLEMS FOR TODAY
+
+   No fixed problem. Choose an unseen problem of this week's pattern, for example one
+   you have not solved yet from W19ISAG.AdditionalPractice:
+
+   - Medium 1091. Shortest Path in Binary Matrix  ->  https://leetcode.com/problems/shortest-path-in-binary-matrix/
+   - Medium 886. Possible Bipartition  ->  https://leetcode.com/problems/possible-bipartition/
+   - Hard 126. Word Ladder II  ->  https://leetcode.com/problems/word-ladder-ii/
+   - Hard 1192. Critical Connections in a Network  ->  https://leetcode.com/problems/critical-connections-in-a-network/
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Clear the desk and set a timer for the stated duration. No notes, no hints, no IDE
+      autocomplete if you can avoid it.
+   b. Pick a problem of this week's pattern that you have NOT solved yet (the week's
+      AdditionalPractice package is a good pool).
+   c. Talk out loud as in an interview: clarify inputs, give a brute force, state the
+      invariant, then code the optimal solution.
+   d. Test with your own examples, then state time and space complexity.
+   e. After the timer, review honestly: what slowed you down? Add it to the Error Log.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Both solved; modelling choice justified before coding.
+
+5. DONE CHECKLIST
+
+   [ ] Solved within the time limit (or noted exactly where time ran out)
+   [ ] Invariant and complexity explained out loud
+   [ ] Post-mock review added to the Error Log
+   [ ] Jira task moved to Done

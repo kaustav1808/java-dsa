@@ -1,0 +1,46 @@
+DAY 84 STUDY GUIDE: Week 12 timed mock (40 min)
+========================================================================================
+Week     : Week 12 - Tries & Prefix Lookups
+Week goal: Trie design, wildcard search, Trie + grid DFS and a binary XOR trie; plus core bit manipulation.
+Day type : Timed mock interview
+Jira     : SCRUM-113  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-113)
+Package  : W12TPL.D84W12TM40M
+
+1. WHAT TO STUDY TODAY
+
+   Action: Solve an unseen prefix/text-parsing problem in 40 minutes.
+
+2. PROBLEMS FOR TODAY
+
+   No fixed problem. Choose an unseen problem of this week's pattern, for example one
+   you have not solved yet from W12TPL.AdditionalPractice:
+
+   - Easy 191. Number of 1 Bits  ★  ->  https://leetcode.com/problems/number-of-1-bits/
+   - Easy 338. Counting Bits  ★  ->  https://leetcode.com/problems/counting-bits/
+   - Easy 268. Missing Number  ★  ->  https://leetcode.com/problems/missing-number/
+   - Easy 190. Reverse Bits  ★  ->  https://leetcode.com/problems/reverse-bits/
+   - Medium 371. Sum of Two Integers  ★  ->  https://leetcode.com/problems/sum-of-two-integers/
+   - Medium 1268. Search Suggestions System  ->  https://leetcode.com/problems/search-suggestions-system/
+   - Medium 720. Longest Word in Dictionary  ->  https://leetcode.com/problems/longest-word-in-dictionary/
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Clear the desk and set a timer for the stated duration. No notes, no hints, no IDE
+      autocomplete if you can avoid it.
+   b. Pick a problem of this week's pattern that you have NOT solved yet (the week's
+      AdditionalPractice package is a good pool).
+   c. Talk out loud as in an interview: clarify inputs, give a brute force, state the
+      invariant, then code the optimal solution.
+   d. Test with your own examples, then state time and space complexity.
+   e. After the timer, review honestly: what slowed you down? Add it to the Error Log.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Working solution within 40 minutes.
+
+5. DONE CHECKLIST
+
+   [ ] Solved within the time limit (or noted exactly where time ran out)
+   [ ] Invariant and complexity explained out loud
+   [ ] Post-mock review added to the Error Log
+   [ ] Jira task moved to Done

@@ -1,0 +1,49 @@
+DAY 114 STUDY GUIDE: Sort List
+========================================================================================
+Week     : Week 17 - Interview Simulation: Arrays, Lists & Monotonic Structures
+Week goal: Timed, mixed-pattern practice on advanced array, list and monotonic-structure problems.
+Day type : Learning and practice
+Jira     : SCRUM-143  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-143)
+Package  : W17ISALMS.D114SL
+
+1. WHAT TO STUDY TODAY
+
+   Merge sort on a linked list: find the middle with slow/fast, split, merge. Daily loop
+   (90 min): 15 min review Error Log and re-trace past failures; 45 min timed solve
+   (talk through approach, trade-offs and edge cases before coding); 30 min review,
+   optimise and log bugs.
+
+   Key ideas to understand before coding (from today's problems):
+   - Merge sort: split at the middle with slow/fast pointers, sort both halves, merge
+     (bottom-up merge sort gives O(1) space).
+
+2. PROBLEMS FOR TODAY
+
+   1) Medium 148. Sort List
+      Link    : https://leetcode.com/problems/sort-list/
+      Package : W17ISALMS.D114SL.SortList
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Sort in O(N log N) with O(log N) recursion stack.
+
+5. DONE CHECKLIST
+
+   [ ] Sort List: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

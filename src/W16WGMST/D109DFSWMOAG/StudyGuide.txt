@@ -1,0 +1,46 @@
+DAY 109 STUDY GUIDE: DFS with memoisation on a grid
+========================================================================================
+Week     : Week 16 - Weighted Graphs & Minimum Spanning Trees
+Week goal: Dijkstra, bounded-stop shortest path, MST and graph/grid DP problems.
+Day type : Learning and practice
+Jira     : SCRUM-138  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-138)
+Package  : W16WGMST.D109DFSWMOAG
+
+1. WHAT TO STUDY TODAY
+
+   Cache the longest path from each cell so each cell is computed once.
+
+   Key ideas to understand before coding (from today's problems):
+   - DFS from each cell with memoisation; no visited set is needed because paths are
+     strictly increasing.
+
+2. PROBLEMS FOR TODAY
+
+   1) Hard 329. Longest Increasing Path in a Matrix
+      Link    : https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+      Package : W16WGMST.D109DFSWMOAG.LongestIncreasingPathInAMatrix
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Solve in O(M*N) and explain why no visited set is needed (strictly increasing path).
+
+5. DONE CHECKLIST
+
+   [ ] Longest Increasing Path in a Matrix: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

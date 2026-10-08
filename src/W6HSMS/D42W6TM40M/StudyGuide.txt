@@ -1,0 +1,46 @@
+DAY 42 STUDY GUIDE: Week 6 timed mock (40 min)
+========================================================================================
+Week     : Week 6 - Heaps, Stacks & Monotonic Structures
+Week goal: Use PriorityQueue, monotonic stack and deque for top-K, running median, K-way merge and window maximum.
+Day type : Timed mock interview
+Jira     : SCRUM-71  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-71)
+Package  : W6HSMS.D42W6TM40M
+
+1. WHAT TO STUDY TODAY
+
+   Action: Solve a heap-based scheduling problem in 40 minutes.
+
+2. PROBLEMS FOR TODAY
+
+   No fixed problem. Choose an unseen problem of this week's pattern, for example one
+   you have not solved yet from W6HSMS.AdditionalPractice:
+
+   - Medium 155. Min Stack  ★  ->  https://leetcode.com/problems/min-stack/
+   - Medium 150. Evaluate Reverse Polish Notation  ★  ->  https://leetcode.com/problems/evaluate-reverse-polish-notation/
+   - Medium 853. Car Fleet  ★  ->  https://leetcode.com/problems/car-fleet/
+   - Easy 1046. Last Stone Weight  ★  ->  https://leetcode.com/problems/last-stone-weight/
+   - Medium 973. K Closest Points to Origin  ★  ->  https://leetcode.com/problems/k-closest-points-to-origin/
+   - Medium 355. Design Twitter  ★  ->  https://leetcode.com/problems/design-twitter/
+   - Medium 394. Decode String  ->  https://leetcode.com/problems/decode-string/
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Clear the desk and set a timer for the stated duration. No notes, no hints, no IDE
+      autocomplete if you can avoid it.
+   b. Pick a problem of this week's pattern that you have NOT solved yet (the week's
+      AdditionalPractice package is a good pool).
+   c. Talk out loud as in an interview: clarify inputs, give a brute force, state the
+      invariant, then code the optimal solution.
+   d. Test with your own examples, then state time and space complexity.
+   e. After the timer, review honestly: what slowed you down? Add it to the Error Log.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Working solution within 40 minutes with correct comparator and complexity analysis.
+
+5. DONE CHECKLIST
+
+   [ ] Solved within the time limit (or noted exactly where time ran out)
+   [ ] Invariant and complexity explained out loud
+   [ ] Post-mock review added to the Error Log
+   [ ] Jira task moved to Done

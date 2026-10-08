@@ -1,0 +1,58 @@
+DAY 3 STUDY GUIDE: Fast/slow (read/write) pointers and in-place partitioning
+========================================================================================
+Week     : Week 1 - Array Pruning, Index Tricks & Two Pointers
+Week goal: Fluency with in-place array edits, converging and read/write pointers, and O(1)-space solutions.
+Day type : Learning and practice
+Jira     : SCRUM-32  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-32)
+Package  : W1APITTP.D3FSRWPAIPP
+
+1. WHAT TO STUDY TODAY
+
+   Read/write pointers to compact arrays in place; generalise 'at most K duplicates';
+   3-way (Dutch flag) partition.
+
+   Key ideas to understand before coding (from today's problems):
+   - Read/write (slow/fast) pointers, O(1) extra space.
+   - Write nums[i] only if it differs from nums[write - 2].
+   - Dutch National Flag: low / mid / high pointers.
+
+2. PROBLEMS FOR TODAY
+
+   1) Easy 26. Remove Duplicates from Sorted Array
+      Link    : https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+      Package : W1APITTP.D3FSRWPAIPP.RemoveDuplicatesFromSortedArray
+
+   2) Medium 80. Remove Duplicates from Sorted Array II
+      Link    : https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+      Package : W1APITTP.D3FSRWPAIPP.RemoveDuplicatesFromSortedArrayII
+
+   3) Medium 75. Sort Colors
+      Link    : https://leetcode.com/problems/sort-colors/
+      Package : W1APITTP.D3FSRWPAIPP.SortColors
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Mutate arrays in O(1) extra space and explain the invariant of each pointer region.
+
+5. DONE CHECKLIST
+
+   [ ] Remove Duplicates from Sorted Array: solved, tests pass, complexity written
+   [ ] Remove Duplicates from Sorted Array II: solved, tests pass, complexity written
+   [ ] Sort Colors: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

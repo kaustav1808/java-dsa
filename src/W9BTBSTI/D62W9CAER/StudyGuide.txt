@@ -1,0 +1,48 @@
+DAY 62 STUDY GUIDE: Week 9 consolidation and error review
+========================================================================================
+Week     : Week 9 - Binary Trees & BST Invariants
+Week goal: Tree recursion, LCA, BFS levels, BST validation and serialization.
+Day type : Consolidation and error review
+Jira     : SCRUM-91  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-91)
+Package  : W9BTBSTI.D62W9CAER
+
+1. WHAT TO STUDY TODAY
+
+   Action: Re-verify bound checks in Validate BST (use long / null bounds for
+   Integer.MIN/MAX values).
+
+2. PROBLEMS FOR TODAY
+
+   No new problems. Review everything solved this week:
+
+   - Maximum Depth of Binary Tree (Easy)  ->  W9BTBSTI.D57TRDAB.MaximumDepthOfBinaryTree
+   - Balanced Binary Tree (Easy)  ->  W9BTBSTI.D57TRDAB.BalancedBinaryTree
+   - Lowest Common Ancestor of a Binary Tree (Medium)  ->  W9BTBSTI.D58LCA.LowestCommonAncestorOfABinaryTree
+   - Binary Tree Level Order Traversal (Medium)  ->  W9BTBSTI.D59LOBFS.BinaryTreeLevelOrderTraversal
+   - Binary Tree Right Side View (Medium)  ->  W9BTBSTI.D59LOBFS.BinaryTreeRightSideView
+   - Validate Binary Search Tree (Medium)  ->  W9BTBSTI.D60BSTVAIOP.ValidateBinarySearchTree
+   - Kth Smallest Element in a BST (Medium)  ->  W9BTBSTI.D60BSTVAIOP.KthSmallestElementInABST
+   - Serialize and Deserialize Binary Tree (Hard)  ->  W9BTBSTI.D61SATC.SerializeAndDeserializeBinaryTree
+   - Construct Binary Tree from Preorder and Inorder Traversal (Medium)  ->  W9BTBSTI.D61SATC.ConstructBinaryTreeFromPreorderAndInorderTraversal
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Open your Error Log and list every problem from this week you missed or needed a
+      hint for.
+   b. Re-solve each of them from a blank file without looking at your old code; time
+      yourself.
+   c. For every problem of the week, write one line: pattern, key invariant, time and
+      space complexity.
+   d. Update the Error Log with root causes (why the bug happened), not symptoms.
+   e. If time is left, re-solve the hardest problem of the week once more, faster.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Validate BST passes with extreme values.
+
+5. DONE CHECKLIST
+
+   [ ] Every missed problem of the week re-solved from scratch without hints
+   [ ] One-line pattern + complexity summary written for every problem of the week
+   [ ] Error Log updated with root causes
+   [ ] Jira task moved to Done

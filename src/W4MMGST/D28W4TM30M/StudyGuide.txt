@@ -1,0 +1,46 @@
+DAY 28 STUDY GUIDE: Week 4 timed mock (30 min)
+========================================================================================
+Week     : Week 4 - Matrix Manipulation & Grid State Tracking
+Week goal: Index mapping, boundary tracking and in-place state flags on 2D grids; plus core math-and-geometry utilities.
+Day type : Timed mock interview
+Jira     : SCRUM-57  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-57)
+Package  : W4MMGST.D28W4TM30M
+
+1. WHAT TO STUDY TODAY
+
+   Action: Solve a matrix traversal problem under a strict 30-minute timer.
+
+2. PROBLEMS FOR TODAY
+
+   No fixed problem. Choose an unseen problem of this week's pattern, for example one
+   you have not solved yet from W4MMGST.AdditionalPractice:
+
+   - Easy 202. Happy Number  ★  ->  https://leetcode.com/problems/happy-number/
+   - Easy 66. Plus One  ★  ->  https://leetcode.com/problems/plus-one/
+   - Medium 50. Pow(x, n)  ★  ->  https://leetcode.com/problems/powx-n/
+   - Medium 43. Multiply Strings  ★  ->  https://leetcode.com/problems/multiply-strings/
+   - Medium 289. Game of Life  ->  https://leetcode.com/problems/game-of-life/
+   - Medium 240. Search a 2D Matrix II  ->  https://leetcode.com/problems/search-a-2d-matrix-ii/
+   - Medium 59. Spiral Matrix II  ->  https://leetcode.com/problems/spiral-matrix-ii/
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Clear the desk and set a timer for the stated duration. No notes, no hints, no IDE
+      autocomplete if you can avoid it.
+   b. Pick a problem of this week's pattern that you have NOT solved yet (the week's
+      AdditionalPractice package is a good pool).
+   c. Talk out loud as in an interview: clarify inputs, give a brute force, state the
+      invariant, then code the optimal solution.
+   d. Test with your own examples, then state time and space complexity.
+   e. After the timer, review honestly: what slowed you down? Add it to the Error Log.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Working solution within 30 minutes; Month 1 error log reviewed.
+
+5. DONE CHECKLIST
+
+   [ ] Solved within the time limit (or noted exactly where time ran out)
+   [ ] Invariant and complexity explained out loud
+   [ ] Post-mock review added to the Error Log
+   [ ] Jira task moved to Done

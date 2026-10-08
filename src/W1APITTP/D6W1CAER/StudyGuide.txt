@@ -1,0 +1,49 @@
+DAY 6 STUDY GUIDE: Week 1 consolidation and error review
+========================================================================================
+Week     : Week 1 - Array Pruning, Index Tricks & Two Pointers
+Week goal: Fluency with in-place array edits, converging and read/write pointers, and O(1)-space solutions.
+Day type : Consolidation and error review
+Jira     : SCRUM-35  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-35)
+Package  : W1APITTP.D6W1CAER
+
+1. WHAT TO STUDY TODAY
+
+   Action: Redo every missed Week 1 problem from scratch. Write time and space
+   complexity for each solution. Create your Error Log.
+
+2. PROBLEMS FOR TODAY
+
+   No new problems. Review everything solved this week:
+
+   - Valid Palindrome (Easy)  ->  W1APITTP.D1AAlCTP.ValidPalindrome
+   - Two Sum II - Input Array Is Sorted (Medium)  ->  W1APITTP.D1AAlCTP.TwoSumIIInputArrayIsSorted
+   - Container With Most Water (Medium)  ->  W1APITTP.D2ODPAAT.ContainerWithMostWater
+   - 3Sum (Medium)  ->  W1APITTP.D2ODPAAT.ThreeSum
+   - Remove Duplicates from Sorted Array (Easy)  ->  W1APITTP.D3FSRWPAIPP.RemoveDuplicatesFromSortedArray
+   - Remove Duplicates from Sorted Array II (Medium)  ->  W1APITTP.D3FSRWPAIPP.RemoveDuplicatesFromSortedArrayII
+   - Sort Colors (Medium)  ->  W1APITTP.D3FSRWPAIPP.SortColors
+   - Next Permutation (Medium)  ->  W1APITTP.D4NP.NextPermutation
+   - Trapping Rain Water (Hard)  ->  W1APITTP.D5TRWTP.TrappingRainWater
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Open your Error Log and list every problem from this week you missed or needed a
+      hint for.
+   b. Re-solve each of them from a blank file without looking at your old code; time
+      yourself.
+   c. For every problem of the week, write one line: pattern, key invariant, time and
+      space complexity.
+   d. Update the Error Log with root causes (why the bug happened), not symptoms.
+   e. If time is left, re-solve the hardest problem of the week once more, faster.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   All Week 1 problems re-solved without hints; Error Log started with root causes, not
+   just symptoms.
+
+5. DONE CHECKLIST
+
+   [ ] Every missed problem of the week re-solved from scratch without hints
+   [ ] One-line pattern + complexity summary written for every problem of the week
+   [ ] Error Log updated with root causes
+   [ ] Jira task moved to Done

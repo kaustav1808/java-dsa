@@ -1,0 +1,45 @@
+DAY 97 STUDY GUIDE: Week 14 consolidation and error review
+========================================================================================
+Week     : Week 14 - 2D Dynamic Programming
+Week goal: Grid DP, LCS, Edit Distance, state-machine DP and palindromic DP.
+Day type : Consolidation and error review
+Jira     : SCRUM-126  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-126)
+Package  : W142DDP.D97W14CAER
+
+1. WHAT TO STUDY TODAY
+
+   Action: Re-code Edit Distance from a blank file and verify index offsets.
+
+2. PROBLEMS FOR TODAY
+
+   No new problems. Review everything solved this week:
+
+   - Unique Paths (Medium)  ->  W142DDP.D92GDP.UniquePaths
+   - Unique Paths II (Medium)  ->  W142DDP.D92GDP.UniquePathsII
+   - Longest Common Subsequence (Medium)  ->  W142DDP.D93LCS.LongestCommonSubsequence
+   - Edit Distance (Hard)  ->  W142DDP.D94ED.EditDistance
+   - Best Time to Buy and Sell Stock with Cooldown (Medium)  ->  W142DDP.D95SMDPSWC.BestTimeToBuyAndSellStockWithCooldown
+   - Longest Palindromic Substring (Medium)  ->  W142DDP.D96PSS.LongestPalindromicSubstring
+   - Longest Palindromic Subsequence (Medium)  ->  W142DDP.D96PSS.LongestPalindromicSubsequence
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Open your Error Log and list every problem from this week you missed or needed a
+      hint for.
+   b. Re-solve each of them from a blank file without looking at your old code; time
+      yourself.
+   c. For every problem of the week, write one line: pattern, key invariant, time and
+      space complexity.
+   d. Update the Error Log with root causes (why the bug happened), not symptoms.
+   e. If time is left, re-solve the hardest problem of the week once more, faster.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Edit Distance passes empty-string and equal-string cases.
+
+5. DONE CHECKLIST
+
+   [ ] Every missed problem of the week re-solved from scratch without hints
+   [ ] One-line pattern + complexity summary written for every problem of the week
+   [ ] Error Log updated with root causes
+   [ ] Jira task moved to Done

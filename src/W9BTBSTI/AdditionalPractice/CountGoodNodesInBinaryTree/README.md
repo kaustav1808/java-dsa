@@ -1,0 +1,45 @@
+# 1448. Count Good Nodes in Binary Tree
+
+**Difficulty:** Medium · **Source:** LeetCode · ★ Blind 75 / NeetCode 150 (do not skip)
+
+## Links
+
+- LeetCode: https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+- Jira task: https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-18
+
+**Where it fits:** Week 9 - Binary Trees & BST Invariants → Additional practice (SCRUM-18)
+
+## Problem statement
+
+In a binary tree, a node X is 'good' if no node on the path from the root to X has a value greater than X. Return the number of good nodes.
+
+## Examples
+
+- `root = [3, 1, 4, 3, null, 1, 5] -> 4`
+- `root = [3, 3, null, 4, 2] -> 3`
+- `root = [1] -> 1`
+
+## Hints
+
+<details>
+<summary>Open only if you are stuck for more than 20-25 minutes</summary>
+
+- DFS passing the maximum value seen on the path so far.
+
+</details>
+
+## Files in this package
+
+- `CountGoodNodesInBinaryTree.java`: write your solution here.
+- `Main.java`: run your solution on the examples above.
+- `CountGoodNodesInBinaryTreeTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+
+## Before you code
+
+1. Restate the problem in one sentence and list the edge cases (empty input, one element, duplicates, negatives, overflow).
+2. Trace one example by hand.
+3. Say the brute-force idea and its complexity, then look for the better pattern.
+4. After solving, write the time and space complexity as a comment and log any mistake in your Error Log.
+
+---
+*The statement and examples above are written in our own words for study purposes. Use the link for the official wording, full examples and exact constraints.*

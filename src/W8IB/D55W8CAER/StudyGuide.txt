@@ -1,0 +1,46 @@
+DAY 55 STUDY GUIDE: Week 8 consolidation and error review
+========================================================================================
+Week     : Week 8 - Intervals & Backtracking
+Week goal: Sort-and-sweep interval problems and backtracking with pruning for subsets, permutations and grid search.
+Day type : Consolidation and error review
+Jira     : SCRUM-84  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-84)
+Package  : W8IB.D55W8CAER
+
+1. WHAT TO STUDY TODAY
+
+   Action: Redo Word Search and step through cell-by-cell traversal manually.
+
+2. PROBLEMS FOR TODAY
+
+   No new problems. Review everything solved this week:
+
+   - Merge Intervals (Medium)  ->  W8IB.D50MAII.MergeIntervals
+   - Insert Interval (Medium)  ->  W8IB.D50MAII.InsertInterval
+   - Meeting Rooms II (Medium)  ->  W8IB.D51RCWI.MeetingRoomsII
+   - Divide Intervals Into Minimum Number of Groups (Medium)  ->  W8IB.D51RCWI.DivideIntervalsIntoMinimumNumberOfGroups
+   - Subsets (Medium)  ->  W8IB.D52BSAC.Subsets
+   - Combination Sum (Medium)  ->  W8IB.D52BSAC.CombinationSum
+   - Permutations (Medium)  ->  W8IB.D53BP.Permutations
+   - Word Search (Medium)  ->  W8IB.D54BWPOAG.WordSearch
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Open your Error Log and list every problem from this week you missed or needed a
+      hint for.
+   b. Re-solve each of them from a blank file without looking at your old code; time
+      yourself.
+   c. For every problem of the week, write one line: pattern, key invariant, time and
+      space complexity.
+   d. Update the Error Log with root causes (why the bug happened), not symptoms.
+   e. If time is left, re-solve the hardest problem of the week once more, faster.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Solution re-coded without hints; visited restoration verified.
+
+5. DONE CHECKLIST
+
+   [ ] Every missed problem of the week re-solved from scratch without hints
+   [ ] One-line pattern + complexity summary written for every problem of the week
+   [ ] Error Log updated with root causes
+   [ ] Jira task moved to Done

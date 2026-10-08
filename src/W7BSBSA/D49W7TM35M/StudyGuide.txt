@@ -1,0 +1,44 @@
+DAY 49 STUDY GUIDE: Week 7 timed mock (35 min)
+========================================================================================
+Week     : Week 7 - Binary Search Beyond Sorted Arrays
+Week goal: Binary search on rotated arrays, 2D matrices and answer spaces with correct boundaries.
+Day type : Timed mock interview
+Jira     : SCRUM-78  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-78)
+Package  : W7BSBSA.D49W7TM35M
+
+1. WHAT TO STUDY TODAY
+
+   Action: Solve a complex range-search problem in 35 minutes.
+
+2. PROBLEMS FOR TODAY
+
+   No fixed problem. Choose an unseen problem of this week's pattern, for example one
+   you have not solved yet from W7BSBSA.AdditionalPractice:
+
+   - Medium 981. Time Based Key-Value Store  ★  ->  https://leetcode.com/problems/time-based-key-value-store/
+   - Easy 69. Sqrt(x)  ->  https://leetcode.com/problems/sqrtx/
+   - Medium 162. Find Peak Element  ->  https://leetcode.com/problems/find-peak-element/
+   - Medium 1011. Capacity To Ship Packages Within D Days  ->  https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+   - Hard 410. Split Array Largest Sum  ->  https://leetcode.com/problems/split-array-largest-sum/
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Clear the desk and set a timer for the stated duration. No notes, no hints, no IDE
+      autocomplete if you can avoid it.
+   b. Pick a problem of this week's pattern that you have NOT solved yet (the week's
+      AdditionalPractice package is a good pool).
+   c. Talk out loud as in an interview: clarify inputs, give a brute force, state the
+      invariant, then code the optimal solution.
+   d. Test with your own examples, then state time and space complexity.
+   e. After the timer, review honestly: what slowed you down? Add it to the Error Log.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Working solution within 35 minutes with the feasibility function clearly stated.
+
+5. DONE CHECKLIST
+
+   [ ] Solved within the time limit (or noted exactly where time ran out)
+   [ ] Invariant and complexity explained out loud
+   [ ] Post-mock review added to the Error Log
+   [ ] Jira task moved to Done

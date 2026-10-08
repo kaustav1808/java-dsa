@@ -1,0 +1,47 @@
+DAY 20 STUDY GUIDE: Week 3 consolidation and error review
+========================================================================================
+Week     : Week 3 - Linked List Transformations & Cycles
+Week goal: Rewire pointers safely: reversal, dummy node, cycle detection, intersection and k-group reversal.
+Day type : Consolidation and error review
+Jira     : SCRUM-49  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-49)
+Package  : W3LLTC.D20W3CAER
+
+1. WHAT TO STUDY TODAY
+
+   Action: Hand-diagram the pointer updates for k-Group. Re-verify edge cases (k = 1,
+   length < k, single node).
+
+2. PROBLEMS FOR TODAY
+
+   No new problems. Review everything solved this week:
+
+   - Reverse Linked List (Easy)  ->  W3LLTC.D15LLBAIR.ReverseLinkedList
+   - Reverse Linked List II (Medium)  ->  W3LLTC.D15LLBAIR.ReverseLinkedListII
+   - Merge Two Sorted Lists (Easy)  ->  W3LLTC.D16DNP.MergeTwoSortedLists
+   - Partition List (Medium)  ->  W3LLTC.D16DNP.PartitionList
+   - Linked List Cycle (Easy)  ->  W3LLTC.D17FCD.LinkedListCycle
+   - Linked List Cycle II (Medium)  ->  W3LLTC.D17FCD.LinkedListCycleII
+   - Intersection of Two Linked Lists (Easy)  ->  W3LLTC.D18IOTL.IntersectionOfTwoLinkedLists
+   - Reverse Nodes in k-Group (Hard)  ->  W3LLTC.D19RNIKG.ReverseNodesInKGroup
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Open your Error Log and list every problem from this week you missed or needed a
+      hint for.
+   b. Re-solve each of them from a blank file without looking at your old code; time
+      yourself.
+   c. For every problem of the week, write one line: pattern, key invariant, time and
+      space complexity.
+   d. Update the Error Log with root causes (why the bug happened), not symptoms.
+   e. If time is left, re-solve the hardest problem of the week once more, faster.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Diagram matches code; all edge cases pass.
+
+5. DONE CHECKLIST
+
+   [ ] Every missed problem of the week re-solved from scratch without hints
+   [ ] One-line pattern + complexity summary written for every problem of the week
+   [ ] Error Log updated with root causes
+   [ ] Jira task moved to Done

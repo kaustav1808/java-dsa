@@ -1,0 +1,52 @@
+DAY 50 STUDY GUIDE: Merging and inserting intervals
+========================================================================================
+Week     : Week 8 - Intervals & Backtracking
+Week goal: Sort-and-sweep interval problems and backtracking with pruning for subsets, permutations and grid search.
+Day type : Learning and practice
+Jira     : SCRUM-79  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-79)
+Package  : W8IB.D50MAII
+
+1. WHAT TO STUDY TODAY
+
+   Sort by start with a comparator on int[][] and sweep once, merging overlaps.
+
+   Key ideas to understand before coding (from today's problems):
+   - Sort by start, then extend or close the current interval.
+   - Three phases: copy intervals ending before it, merge overlapping ones, copy the
+     rest.
+
+2. PROBLEMS FOR TODAY
+
+   1) Medium 56. Merge Intervals
+      Link    : https://leetcode.com/problems/merge-intervals/
+      Package : W8IB.D50MAII.MergeIntervals
+
+   2) Medium 57. Insert Interval
+      Link    : https://leetcode.com/problems/insert-interval/
+      Package : W8IB.D50MAII.InsertInterval
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Merge and insert intervals in O(N log N) / O(N) with correct overlap conditions.
+
+5. DONE CHECKLIST
+
+   [ ] Merge Intervals: solved, tests pass, complexity written
+   [ ] Insert Interval: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

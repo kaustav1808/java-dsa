@@ -1,0 +1,43 @@
+DAY 112 STUDY GUIDE: Week 16 timed mock (45 min)
+========================================================================================
+Week     : Week 16 - Weighted Graphs & Minimum Spanning Trees
+Week goal: Dijkstra, bounded-stop shortest path, MST and graph/grid DP problems.
+Day type : Timed mock interview
+Jira     : SCRUM-141  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-141)
+Package  : W16WGMST.D112W16TM45M
+
+1. WHAT TO STUDY TODAY
+
+   Action: Solve an unseen weighted-path problem in 45 minutes.
+
+2. PROBLEMS FOR TODAY
+
+   No fixed problem. Choose an unseen problem of this week's pattern, for example one
+   you have not solved yet from W16WGMST.AdditionalPractice:
+
+   - Hard 778. Swim in Rising Water  ★  ->  https://leetcode.com/problems/swim-in-rising-water/
+   - Hard 332. Reconstruct Itinerary  ★  ->  https://leetcode.com/problems/reconstruct-itinerary/
+   - Medium 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance  ->  https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
+   - Medium 1514. Path with Maximum Probability  ->  https://leetcode.com/problems/path-with-maximum-probability/
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Clear the desk and set a timer for the stated duration. No notes, no hints, no IDE
+      autocomplete if you can avoid it.
+   b. Pick a problem of this week's pattern that you have NOT solved yet (the week's
+      AdditionalPractice package is a good pool).
+   c. Talk out loud as in an interview: clarify inputs, give a brute force, state the
+      invariant, then code the optimal solution.
+   d. Test with your own examples, then state time and space complexity.
+   e. After the timer, review honestly: what slowed you down? Add it to the Error Log.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Working solution within 45 minutes, choosing the right algorithm with justification.
+
+5. DONE CHECKLIST
+
+   [ ] Solved within the time limit (or noted exactly where time ran out)
+   [ ] Invariant and complexity explained out loud
+   [ ] Post-mock review added to the Error Log
+   [ ] Jira task moved to Done

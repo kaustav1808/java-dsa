@@ -1,0 +1,54 @@
+DAY 32 STUDY GUIDE: Prefix-sum variants: balance and remainders
+========================================================================================
+Week     : Week 5 - Hashing, Prefix Sums & Frequency Analysis
+Week goal: Use HashMaps/HashSets and prefix sums to remove nested loops; build an O(1) LRU Cache.
+Day type : Learning and practice
+Jira     : SCRUM-61  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-61)
+Package  : W5HPSFA.D32PSVBAR
+
+1. WHAT TO STUDY TODAY
+
+   Map first-seen index for transformed prefix sums (0/1 to -1/+1) and for remainders
+   mod K.
+
+   Key ideas to understand before coding (from today's problems):
+   - Treat 0 as -1; the longest subarray with sum 0 is found by storing the first index
+     of each prefix sum (balance).
+   - Count prefix-sum remainders; normalise negative remainders with ((x % k) + k) % k;
+     seed remainder 0 with count 1.
+
+2. PROBLEMS FOR TODAY
+
+   1) Medium 525. Contiguous Array
+      Link    : https://leetcode.com/problems/contiguous-array/
+      Package : W5HPSFA.D32PSVBAR.ContiguousArray
+
+   2) Medium 974. Subarray Sums Divisible by K
+      Link    : https://leetcode.com/problems/subarray-sums-divisible-by-k/
+      Package : W5HPSFA.D32PSVBAR.SubarraySumsDivisibleByK
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Apply the prefix-sum + map pattern to equal-count and divisibility problems in O(N).
+
+5. DONE CHECKLIST
+
+   [ ] Contiguous Array: solved, tests pass, complexity written
+   [ ] Subarray Sums Divisible by K: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

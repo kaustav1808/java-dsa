@@ -1,0 +1,49 @@
+DAY 135 STUDY GUIDE: Decode Ways
+========================================================================================
+Week     : Week 20 - Interview Simulation: DP, Knapsack & Bitmask
+Week goal: Timed practice on knapsack variants, bitmask DP and hard string DP; final mock loop.
+Day type : Learning and practice
+Jira     : SCRUM-164  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-164)
+Package  : W20ISDPKB.D135DW
+
+1. WHAT TO STUDY TODAY
+
+   Linear DP over one- and two-digit decodings; handle zeros. Daily loop (90 min): 15
+   min review Error Log and re-trace past failures; 45 min timed solve (talk through
+   approach, trade-offs and edge cases before coding); 30 min review, optimise and log
+   bugs.
+
+   Key ideas to understand before coding (from today's problems):
+   - dp[i] = (valid single digit ? dp[i-1] : 0) + (valid two-digit 10..26 ? dp[i-2] :
+     0).
+
+2. PROBLEMS FOR TODAY
+
+   1) Medium 91. Decode Ways
+      Link    : https://leetcode.com/problems/decode-ways/
+      Package : W20ISDPKB.D135DW.DecodeWays
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Solve in O(N) time, O(1) space.
+
+5. DONE CHECKLIST
+
+   [ ] Decode Ways: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

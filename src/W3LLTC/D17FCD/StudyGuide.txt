@@ -1,0 +1,55 @@
+DAY 17 STUDY GUIDE: Floyd's cycle detection
+========================================================================================
+Week     : Week 3 - Linked List Transformations & Cycles
+Week goal: Rewire pointers safely: reversal, dummy node, cycle detection, intersection and k-group reversal.
+Day type : Learning and practice
+Jira     : SCRUM-46  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-46)
+Package  : W3LLTC.D17FCD
+
+1. WHAT TO STUDY TODAY
+
+   Fast/slow pointers; locate the cycle entry by resetting one pointer to head and
+   advancing both one step at a time.
+
+   Key ideas to understand before coding (from today's problems):
+   - Floyd's tortoise and hare: slow moves 1, fast moves 2; they meet iff there is a
+     cycle.
+   - After slow and fast meet, restart one pointer from head; moving both one step at a
+     time, they meet at the cycle start.
+
+2. PROBLEMS FOR TODAY
+
+   1) Easy 141. Linked List Cycle
+      Link    : https://leetcode.com/problems/linked-list-cycle/
+      Package : W3LLTC.D17FCD.LinkedListCycle
+
+   2) Medium 142. Linked List Cycle II
+      Link    : https://leetcode.com/problems/linked-list-cycle-ii/
+      Package : W3LLTC.D17FCD.LinkedListCycleII
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Prove why the pointers meet at the cycle entry and implement both problems in O(N)
+   time, O(1) space.
+
+5. DONE CHECKLIST
+
+   [ ] Linked List Cycle: solved, tests pass, complexity written
+   [ ] Linked List Cycle II: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

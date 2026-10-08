@@ -1,0 +1,51 @@
+DAY 57 STUDY GUIDE: Tree recursion: depth and balance
+========================================================================================
+Week     : Week 9 - Binary Trees & BST Invariants
+Week goal: Tree recursion, LCA, BFS levels, BST validation and serialization.
+Day type : Learning and practice
+Jira     : SCRUM-86  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-86)
+Package  : W9BTBSTI.D57TRDAB
+
+1. WHAT TO STUDY TODAY
+
+   Top-down vs bottom-up recursion; return height and balanced flag in one pass.
+
+   Key ideas to understand before coding (from today's problems):
+   - depth = 1 + max(depth(left), depth(right)).
+   - Post-order: return the height, or -1 as soon as any subtree is unbalanced (O(n)).
+
+2. PROBLEMS FOR TODAY
+
+   1) Easy 104. Maximum Depth of Binary Tree
+      Link    : https://leetcode.com/problems/maximum-depth-of-binary-tree/
+      Package : W9BTBSTI.D57TRDAB.MaximumDepthOfBinaryTree
+
+   2) Easy 110. Balanced Binary Tree
+      Link    : https://leetcode.com/problems/balanced-binary-tree/
+      Package : W9BTBSTI.D57TRDAB.BalancedBinaryTree
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Compute depth and balance check in O(N) by bubbling results up the call stack.
+
+5. DONE CHECKLIST
+
+   [ ] Maximum Depth of Binary Tree: solved, tests pass, complexity written
+   [ ] Balanced Binary Tree: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

@@ -1,0 +1,54 @@
+DAY 2 STUDY GUIDE: Opposite-direction pointers: area and triplets
+========================================================================================
+Week     : Week 1 - Array Pruning, Index Tricks & Two Pointers
+Week goal: Fluency with in-place array edits, converging and read/write pointers, and O(1)-space solutions.
+Day type : Learning and practice
+Jira     : SCRUM-31  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-31)
+Package  : W1APITTP.D2ODPAAT
+
+1. WHAT TO STUDY TODAY
+
+   Container With Most Water (always move the pointer at the shorter wall). 3Sum: sort,
+   fix one element, converging pair, skip duplicates.
+
+   Key ideas to understand before coding (from today's problems):
+   - Converging pointers: always move the pointer at the shorter wall.
+   - Sort, fix one element, then run converging two pointers; skip equal neighbours to
+     avoid duplicates.
+
+2. PROBLEMS FOR TODAY
+
+   1) Medium 11. Container With Most Water
+      Link    : https://leetcode.com/problems/container-with-most-water/
+      Package : W1APITTP.D2ODPAAT.ContainerWithMostWater
+
+   2) Medium 15. 3Sum
+      Link    : https://leetcode.com/problems/3sum/
+      Package : W1APITTP.D2ODPAAT.ThreeSum
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Prove why discarding the shorter wall can never lose the optimum. Produce 3Sum with
+   no duplicate triplets in O(N^2).
+
+5. DONE CHECKLIST
+
+   [ ] Container With Most Water: solved, tests pass, complexity written
+   [ ] 3Sum: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

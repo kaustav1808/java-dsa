@@ -1,0 +1,45 @@
+DAY 64 STUDY GUIDE: Graph representations and grid flood-fill
+========================================================================================
+Week     : Week 10 - Graph Traversal & Union-Find
+Week goal: Grid/graph DFS-BFS, graph cloning, multi-source BFS and a reusable DSU.
+Day type : Learning and practice
+Jira     : SCRUM-93  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-93)
+Package  : W10GTUF.D64GRAGFF
+
+1. WHAT TO STUDY TODAY
+
+   Adjacency list vs matrix; grid DFS/BFS with a direction array.
+
+   Key ideas to understand before coding (from today's problems):
+   - DFS/BFS flood-fill from each unvisited land cell, or Union-Find.
+
+2. PROBLEMS FOR TODAY
+
+   1) Medium 200. Number of Islands
+      Link    : https://leetcode.com/problems/number-of-islands/
+      Package : W10GTUF.D64GRAGFF.NumberOfIslands
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Count islands in O(M*N) using a reusable direction-array pattern.
+
+5. DONE CHECKLIST
+
+   [ ] Number of Islands: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

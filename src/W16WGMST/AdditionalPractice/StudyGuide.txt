@@ -1,0 +1,55 @@
+ADDITIONAL PRACTICE STUDY GUIDE: Week 16 - Weighted Graphs & Minimum Spanning Trees
+========================================================================================
+Week goal: Dijkstra, bounded-stop shortest path, MST and graph/grid DP problems.
+Jira     : SCRUM-25  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-25)
+Package  : W16WGMST.AdditionalPractice
+
+1. WHEN TO DO THESE
+
+   After the week's timed mock. These top up topic coverage and are not part of the 7
+   daily tasks. Problems marked ★ are on the Blind 75 / NeetCode 150 lists: do not skip
+   them.
+
+2. PROBLEMS
+
+   1) Hard 778. Swim in Rising Water  ★
+      Link    : https://leetcode.com/problems/swim-in-rising-water/
+      Package : W16WGMST.AdditionalPractice.SwimInRisingWater
+
+   2) Hard 332. Reconstruct Itinerary  ★
+      Link    : https://leetcode.com/problems/reconstruct-itinerary/
+      Package : W16WGMST.AdditionalPractice.ReconstructItinerary
+
+   3) Medium 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
+      Link    : https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
+      Package : W16WGMST.AdditionalPractice.FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance
+      Note    : Floyd-Warshall
+
+   4) Medium 1514. Path with Maximum Probability
+      Link    : https://leetcode.com/problems/path-with-maximum-probability/
+      Package : W16WGMST.AdditionalPractice.PathWithMaximumProbability
+
+3. HOW TO WORK THROUGH THEM
+
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED FOR THE WEEK
+
+   Complete all 7 daily sub-tasks and the ★ problems under Additional practice, with
+   every missed problem re-solved from scratch and logged in the Error Log.
+
+5. DONE CHECKLIST
+
+   [ ] Swim in Rising Water ★: solved, tests pass, complexity written
+   [ ] Reconstruct Itinerary ★: solved, tests pass, complexity written
+   [ ] Find the City With the Smallest Number of Neighbors at a Threshold Distance: solved, tests pass, complexity written
+   [ ] Path with Maximum Probability: solved, tests pass, complexity written

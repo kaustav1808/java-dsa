@@ -1,0 +1,47 @@
+DAY 41 STUDY GUIDE: Week 6 consolidation and error review
+========================================================================================
+Week     : Week 6 - Heaps, Stacks & Monotonic Structures
+Week goal: Use PriorityQueue, monotonic stack and deque for top-K, running median, K-way merge and window maximum.
+Day type : Consolidation and error review
+Jira     : SCRUM-70  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-70)
+Package  : W6HSMS.D41W6CAER
+
+1. WHAT TO STUDY TODAY
+
+   Action: Trace Sliding Window Maximum on paper, including index insertions and
+   removals. Re-do the stack problems.
+
+2. PROBLEMS FOR TODAY
+
+   No new problems. Review everything solved this week:
+
+   - Kth Largest Element in a Stream (Easy)  ->  W6HSMS.D36PqATK.KthLargestElementInAStream
+   - Top K Frequent Elements (Medium)  ->  W6HSMS.D36PqATK.TopKFrequentElements
+   - Find Median from Data Stream (Hard)  ->  W6HSMS.D37THRM.FindMedianFromDataStream
+   - Valid Parentheses (Easy)  ->  W6HSMS.D38MSAMD.ValidParentheses
+   - Daily Temperatures (Medium)  ->  W6HSMS.D38MSAMD.DailyTemperatures
+   - Sliding Window Maximum (Hard)  ->  W6HSMS.D38MSAMD.SlidingWindowMaximum
+   - Merge k Sorted Lists (Hard)  ->  W6HSMS.D39KWMWAH.MergeKSortedLists
+   - IPO (Hard)  ->  W6HSMS.D40GSWTH.IPO
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Open your Error Log and list every problem from this week you missed or needed a
+      hint for.
+   b. Re-solve each of them from a blank file without looking at your old code; time
+      yourself.
+   c. For every problem of the week, write one line: pattern, key invariant, time and
+      space complexity.
+   d. Update the Error Log with root causes (why the bug happened), not symptoms.
+   e. If time is left, re-solve the hardest problem of the week once more, faster.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Paper trace matches code; all missed problems re-solved.
+
+5. DONE CHECKLIST
+
+   [ ] Every missed problem of the week re-solved from scratch without hints
+   [ ] One-line pattern + complexity summary written for every problem of the week
+   [ ] Error Log updated with root causes
+   [ ] Jira task moved to Done

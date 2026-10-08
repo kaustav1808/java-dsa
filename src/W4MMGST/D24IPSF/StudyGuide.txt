@@ -1,0 +1,48 @@
+DAY 24 STUDY GUIDE: In-place state flags
+========================================================================================
+Week     : Week 4 - Matrix Manipulation & Grid State Tracking
+Week goal: Index mapping, boundary tracking and in-place state flags on 2D grids; plus core math-and-geometry utilities.
+Day type : Learning and practice
+Jira     : SCRUM-53  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-53)
+Package  : W4MMGST.D24IPSF
+
+1. WHAT TO STUDY TODAY
+
+   Use the first row and column as markers, with a separate flag for them, to zero
+   rows/columns.
+
+   Key ideas to understand before coding (from today's problems):
+   - Use the first row and first column as marker storage, with two flags for
+     themselves.
+
+2. PROBLEMS FOR TODAY
+
+   1) Medium 73. Set Matrix Zeroes
+      Link    : https://leetcode.com/problems/set-matrix-zeroes/
+      Package : W4MMGST.D24IPSF.SetMatrixZeroes
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Reach O(1) extra space (instead of O(M+N) marker arrays) while handling the first
+   row/column correctly.
+
+5. DONE CHECKLIST
+
+   [ ] Set Matrix Zeroes: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

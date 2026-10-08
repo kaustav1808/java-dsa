@@ -1,0 +1,52 @@
+DAY 29 STUDY GUIDE: HashMap internals and frequency signatures
+========================================================================================
+Week     : Week 5 - Hashing, Prefix Sums & Frequency Analysis
+Week goal: Use HashMaps/HashSets and prefix sums to remove nested loops; build an O(1) LRU Cache.
+Day type : Learning and practice
+Jira     : SCRUM-58  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-58)
+Package  : W5HPSFA.D29HmIAFS
+
+1. WHAT TO STUDY TODAY
+
+   HashMap hashing/collision behaviour in Java; use int[26] counts as a string signature
+   instead of sorting; hash-based lookup.
+
+   Key ideas to understand before coding (from today's problems):
+   - Brute force is O(N^2); a HashMap of value -> index gives O(N).
+   - Key each word by its sorted letters or a 26-count signature.
+
+2. PROBLEMS FOR TODAY
+
+   1) Easy 1. Two Sum
+      Link    : https://leetcode.com/problems/two-sum/
+      Package : W5HPSFA.D29HmIAFS.TwoSum
+
+   2) Medium 49. Group Anagrams
+      Link    : https://leetcode.com/problems/group-anagrams/
+      Package : W5HPSFA.D29HmIAFS.GroupAnagrams
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Solve Two Sum in O(N) and group anagrams with an O(26) signature per word.
+
+5. DONE CHECKLIST
+
+   [ ] Two Sum: solved, tests pass, complexity written
+   [ ] Group Anagrams: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done

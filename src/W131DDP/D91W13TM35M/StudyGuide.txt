@@ -1,0 +1,43 @@
+DAY 91 STUDY GUIDE: Week 13 timed mock (35 min)
+========================================================================================
+Week     : Week 13 - 1D Dynamic Programming
+Week goal: Define states and recurrences for 1D DP, knapsack-style and sequence problems.
+Day type : Timed mock interview
+Jira     : SCRUM-120  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-120)
+Package  : W131DDP.D91W13TM35M
+
+1. WHAT TO STUDY TODAY
+
+   Action: Code an unseen 1D DP problem in 35 minutes.
+
+2. PROBLEMS FOR TODAY
+
+   No fixed problem. Choose an unseen problem of this week's pattern, for example one
+   you have not solved yet from W131DDP.AdditionalPractice:
+
+   - Medium 647. Palindromic Substrings  ★  ->  https://leetcode.com/problems/palindromic-substrings/
+   - Medium 279. Perfect Squares  ->  https://leetcode.com/problems/perfect-squares/
+   - Medium 377. Combination Sum IV  ->  https://leetcode.com/problems/combination-sum-iv/
+   - Medium 740. Delete and Earn  ->  https://leetcode.com/problems/delete-and-earn/
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Clear the desk and set a timer for the stated duration. No notes, no hints, no IDE
+      autocomplete if you can avoid it.
+   b. Pick a problem of this week's pattern that you have NOT solved yet (the week's
+      AdditionalPractice package is a good pool).
+   c. Talk out loud as in an interview: clarify inputs, give a brute force, state the
+      invariant, then code the optimal solution.
+   d. Test with your own examples, then state time and space complexity.
+   e. After the timer, review honestly: what slowed you down? Add it to the Error Log.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Working solution within 35 minutes with recurrence stated first.
+
+5. DONE CHECKLIST
+
+   [ ] Solved within the time limit (or noted exactly where time ran out)
+   [ ] Invariant and complexity explained out loud
+   [ ] Post-mock review added to the Error Log
+   [ ] Jira task moved to Done

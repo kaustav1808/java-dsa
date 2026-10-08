@@ -1,0 +1,44 @@
+DAY 77 STUDY GUIDE: Week 11 timed mock (45 min)
+========================================================================================
+Week     : Week 11 - Topological Sort & Dependency Graphs
+Week goal: Kahn's algorithm, cycle detection, Alien Dictionary and tree path DFS.
+Day type : Timed mock interview
+Jira     : SCRUM-106  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-106)
+Package  : W11TSDG.D77W11TM45M
+
+1. WHAT TO STUDY TODAY
+
+   Action: Implement a task-scheduling / dependency problem variant in 45 minutes.
+
+2. PROBLEMS FOR TODAY
+
+   No fixed problem. Choose an unseen problem of this week's pattern, for example one
+   you have not solved yet from W11TSDG.AdditionalPractice:
+
+   - Easy 953. Verifying an Alien Dictionary  ->  https://leetcode.com/problems/verifying-an-alien-dictionary/
+   - Medium 2115. Find All Possible Recipes from Given Supplies  ->  https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
+   - Medium 113. Path Sum II  ->  https://leetcode.com/problems/path-sum-ii/
+   - Medium 129. Sum Root to Leaf Numbers  ->  https://leetcode.com/problems/sum-root-to-leaf-numbers/
+   - Medium 337. House Robber III  ->  https://leetcode.com/problems/house-robber-iii/
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Clear the desk and set a timer for the stated duration. No notes, no hints, no IDE
+      autocomplete if you can avoid it.
+   b. Pick a problem of this week's pattern that you have NOT solved yet (the week's
+      AdditionalPractice package is a good pool).
+   c. Talk out loud as in an interview: clarify inputs, give a brute force, state the
+      invariant, then code the optimal solution.
+   d. Test with your own examples, then state time and space complexity.
+   e. After the timer, review honestly: what slowed you down? Add it to the Error Log.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Working solution within 45 minutes with cycle handling.
+
+5. DONE CHECKLIST
+
+   [ ] Solved within the time limit (or noted exactly where time ran out)
+   [ ] Invariant and complexity explained out loud
+   [ ] Post-mock review added to the Error Log
+   [ ] Jira task moved to Done

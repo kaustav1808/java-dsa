@@ -1,0 +1,59 @@
+ADDITIONAL PRACTICE STUDY GUIDE: Week 18 - Interview Simulation: Heaps, Intervals & Tree Paths
+========================================================================================
+Week goal: Timed practice on heaps, sweep line, interval greedy and tree path problems.
+Jira     : SCRUM-27  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-27)
+Package  : W18ISHITP.AdditionalPractice
+
+1. WHEN TO DO THESE
+
+   After the week's timed mock. These top up topic coverage and are not part of the 7
+   daily tasks. Problems marked ★ are on the Blind 75 / NeetCode 150 lists: do not skip
+   them.
+
+2. PROBLEMS
+
+   1) Medium 692. Top K Frequent Words
+      Link    : https://leetcode.com/problems/top-k-frequent-words/
+      Package : W18ISHITP.AdditionalPractice.TopKFrequentWords
+
+   2) Medium 1094. Car Pooling
+      Link    : https://leetcode.com/problems/car-pooling/
+      Package : W18ISHITP.AdditionalPractice.CarPooling
+
+   3) Medium 1353. Maximum Number of Events That Can Be Attended
+      Link    : https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
+      Package : W18ISHITP.AdditionalPractice.MaximumNumberOfEventsThatCanBeAttended
+
+   4) Hard 1851. Minimum Interval to Include Each Query
+      Link    : https://leetcode.com/problems/minimum-interval-to-include-each-query/
+      Package : W18ISHITP.AdditionalPractice.MinimumIntervalToIncludeEachQuery
+
+   5) Hard 1235. Maximum Profit in Job Scheduling
+      Link    : https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+      Package : W18ISHITP.AdditionalPractice.MaximumProfitInJobScheduling
+
+3. HOW TO WORK THROUGH THEM
+
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED FOR THE WEEK
+
+   Complete all 7 daily sub-tasks, with every missed problem re-solved from scratch and
+   logged in the Error Log. The extra mock pool is optional.
+
+5. DONE CHECKLIST
+
+   [ ] Top K Frequent Words: solved, tests pass, complexity written
+   [ ] Car Pooling: solved, tests pass, complexity written
+   [ ] Maximum Number of Events That Can Be Attended: solved, tests pass, complexity written
+   [ ] Minimum Interval to Include Each Query: solved, tests pass, complexity written
+   [ ] Maximum Profit in Job Scheduling: solved, tests pass, complexity written

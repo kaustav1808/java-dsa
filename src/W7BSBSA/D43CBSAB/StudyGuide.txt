@@ -1,0 +1,52 @@
+DAY 43 STUDY GUIDE: Classic binary search and boundaries
+========================================================================================
+Week     : Week 7 - Binary Search Beyond Sorted Arrays
+Week goal: Binary search on rotated arrays, 2D matrices and answer spaces with correct boundaries.
+Day type : Learning and practice
+Jira     : SCRUM-72  (https://kaustavofficial1808-1790950392039.atlassian.net/browse/SCRUM-72)
+Package  : W7BSBSA.D43CBSAB
+
+1. WHAT TO STUDY TODAY
+
+   Overflow-safe mid = low + (high - low)/2; lower/upper-bound variants.
+
+   Key ideas to understand before coding (from today's problems):
+   - Classic binary search; use lo + (hi - lo) / 2 and be consistent about
+     inclusive/exclusive bounds.
+   - Two binary searches: lower bound and upper bound.
+
+2. PROBLEMS FOR TODAY
+
+   1) Easy 704. Binary Search
+      Link    : https://leetcode.com/problems/binary-search/
+      Package : W7BSBSA.D43CBSAB.BinarySearch
+
+   2) Medium 34. Find First and Last Position of Element in Sorted Array
+      Link    : https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+      Package : W7BSBSA.D43CBSAB.FindFirstAndLastPositionOfElementInSortedArray
+
+3. HOW TO WORK THROUGH THE DAY
+
+   a. Concept first (30-45 min). Read about today's topic (section 1). Draw it on paper
+      and work one tiny example by hand before touching code.
+   b. For each problem, open its README.md. Restate the problem, list edge cases, trace an
+      example by hand, and say the brute-force idea and its complexity before coding.
+   c. Implement in the problem class, run Main with the README examples, then turn those
+      examples plus your own edge cases into assertions in the Test class.
+   d. Write the time and space complexity as a comment above your solution.
+   e. Stuck for 20-25 minutes? Open the hint in the README, then close it and re-code
+      the solution from scratch without looking.
+   f. Log every mistake (wrong idea, off-by-one, missed edge case) in your Error Log with
+      its root cause, not just the symptom.
+
+4. WHAT IS EXPECTED BY THE END OF THE DAY
+
+   Implement log-time search and first/last position without off-by-one bugs.
+
+5. DONE CHECKLIST
+
+   [ ] Binary Search: solved, tests pass, complexity written
+   [ ] Find First and Last Position of Element in Sorted Array: solved, tests pass, complexity written
+   [ ] Can explain today's concept out loud in under 2 minutes
+   [ ] Every mistake logged in the Error Log with its root cause
+   [ ] Jira task moved to Done
