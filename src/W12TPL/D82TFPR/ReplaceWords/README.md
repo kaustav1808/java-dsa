@@ -28,9 +28,8 @@ A dictionary contains 'roots'. In a sentence, replace every word that starts wit
 
 ## Files in this package
 
-- `ReplaceWords.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ReplaceWordsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ReplaceWords.java`: the LeetCode method/class signature, write your solution here.
+- `ReplaceWordsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -29,9 +29,8 @@ A path in a binary tree is any sequence of nodes connected by edges, where each 
 
 ## Files in this package
 
-- `BinaryTreeMaximumPathSum.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `BinaryTreeMaximumPathSumTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `BinaryTreeMaximumPathSum.java`: the LeetCode method/class signature, write your solution here.
+- `BinaryTreeMaximumPathSumTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

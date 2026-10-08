@@ -30,9 +30,8 @@ Trees stand in a row and fruits[i] is the fruit type of tree i. You have two bas
 
 ## Files in this package
 
-- `FruitIntoBaskets.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `FruitIntoBasketsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `FruitIntoBaskets.java`: the LeetCode method/class signature, write your solution here.
+- `FruitIntoBasketsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

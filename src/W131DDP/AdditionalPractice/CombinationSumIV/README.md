@@ -29,9 +29,8 @@ Given an array of distinct positive integers and a target, return how many order
 
 ## Files in this package
 
-- `CombinationSumIV.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `CombinationSumIVTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `CombinationSumIV.java`: the LeetCode method/class signature, write your solution here.
+- `CombinationSumIVTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

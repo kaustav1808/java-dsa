@@ -28,9 +28,8 @@ You are given equations like A / B = value, and queries C / D. Using the equatio
 
 ## Files in this package
 
-- `EvaluateDivision.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `EvaluateDivisionTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `EvaluateDivision.java`: the LeetCode method/class signature, write your solution here.
+- `EvaluateDivisionTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -29,9 +29,8 @@ Given the head of a singly linked list, return its middle node. If there are two
 
 ## Files in this package
 
-- `MiddleOfTheLinkedList.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MiddleOfTheLinkedListTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MiddleOfTheLinkedList.java`: the LeetCode method/class signature, write your solution here.
+- `MiddleOfTheLinkedListTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

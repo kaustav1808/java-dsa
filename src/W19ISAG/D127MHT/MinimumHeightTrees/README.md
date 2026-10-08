@@ -29,9 +29,8 @@ A tree of n nodes (labelled 0..n-1) is given as an undirected edge list. Choosin
 
 ## Files in this package
 
-- `MinimumHeightTrees.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MinimumHeightTreesTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MinimumHeightTrees.java`: the LeetCode method/class signature, write your solution here.
+- `MinimumHeightTreesTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

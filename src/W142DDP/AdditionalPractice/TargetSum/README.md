@@ -29,9 +29,8 @@ Given an integer array and a target, place either '+' or '-' in front of every n
 
 ## Files in this package
 
-- `TargetSum.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `TargetSumTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `TargetSum.java`: the LeetCode method/class signature, write your solution here.
+- `TargetSumTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

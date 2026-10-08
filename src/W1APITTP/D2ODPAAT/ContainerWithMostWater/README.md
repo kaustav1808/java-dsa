@@ -28,9 +28,8 @@ You are given an array `height` where `height[i]` is the height of a vertical li
 
 ## Files in this package
 
-- `ContainerWithMostWater.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ContainerWithMostWaterTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ContainerWithMostWater.java`: the LeetCode method/class signature, write your solution here.
+- `ContainerWithMostWaterTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

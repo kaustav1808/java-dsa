@@ -28,9 +28,8 @@ Design a class that is constructed with k and an initial array, and whose add(va
 
 ## Files in this package
 
-- `KthLargestElementInAStream.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `KthLargestElementInAStreamTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `KthLargest.java`: the LeetCode method/class signature, write your solution here.
+- `KthLargestTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

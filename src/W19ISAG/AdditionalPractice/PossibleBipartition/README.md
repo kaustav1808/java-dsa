@@ -29,9 +29,8 @@ n people (labelled 1..n) must be split into two groups. dislikes[i] = [a, b] mea
 
 ## Files in this package
 
-- `PossibleBipartition.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `PossibleBipartitionTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `PossibleBipartition.java`: the LeetCode method/class signature, write your solution here.
+- `PossibleBipartitionTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

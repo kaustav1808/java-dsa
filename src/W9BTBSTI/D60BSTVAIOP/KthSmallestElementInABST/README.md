@@ -29,9 +29,8 @@ Given the root of a binary search tree and an integer k, return the k-th smalles
 
 ## Files in this package
 
-- `KthSmallestElementInABST.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `KthSmallestElementInABSTTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `KthSmallestElementInABST.java`: the LeetCode method/class signature, write your solution here.
+- `KthSmallestElementInABSTTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

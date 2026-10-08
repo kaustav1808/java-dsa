@@ -29,9 +29,8 @@ You start at index 0 of `nums`, where `nums[i]` is the maximum jump length from 
 
 ## Files in this package
 
-- `JumpGame.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `JumpGameTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `JumpGame.java`: the LeetCode method/class signature, write your solution here.
+- `JumpGameTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -28,9 +28,8 @@ Given an array of distinct integers, return every possible subset (the power set
 
 ## Files in this package
 
-- `Subsets.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SubsetsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `Subsets.java`: the LeetCode method/class signature, write your solution here.
+- `SubsetsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

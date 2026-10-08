@@ -29,9 +29,8 @@ Same as House Robber (no two adjacent houses), but the houses are arranged in a 
 
 ## Files in this package
 
-- `HouseRobberII.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `HouseRobberIITest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `HouseRobberII.java`: the LeetCode method/class signature, write your solution here.
+- `HouseRobberIITest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

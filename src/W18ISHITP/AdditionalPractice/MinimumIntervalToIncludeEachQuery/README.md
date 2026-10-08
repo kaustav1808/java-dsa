@@ -29,9 +29,8 @@ You are given intervals [left, right] and queries. For each query value q, retur
 
 ## Files in this package
 
-- `MinimumIntervalToIncludeEachQuery.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MinimumIntervalToIncludeEachQueryTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MinimumIntervalToIncludeEachQuery.java`: the LeetCode method/class signature, write your solution here.
+- `MinimumIntervalToIncludeEachQueryTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

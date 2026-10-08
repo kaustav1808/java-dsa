@@ -29,9 +29,8 @@ Partition a string into as many parts as possible so that each letter appears in
 
 ## Files in this package
 
-- `PartitionLabels.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `PartitionLabelsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `PartitionLabels.java`: the LeetCode method/class signature, write your solution here.
+- `PartitionLabelsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

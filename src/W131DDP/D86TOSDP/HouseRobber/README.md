@@ -29,9 +29,8 @@ Houses along a street hold given amounts of money. You cannot rob two adjacent h
 
 ## Files in this package
 
-- `HouseRobber.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `HouseRobberTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `HouseRobber.java`: the LeetCode method/class signature, write your solution here.
+- `HouseRobberTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

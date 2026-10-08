@@ -30,9 +30,8 @@ Given coin denominations and a target amount, return the fewest coins needed to 
 
 ## Files in this package
 
-- `CoinChange.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `CoinChangeTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `CoinChange.java`: the LeetCode method/class signature, write your solution here.
+- `CoinChangeTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -28,9 +28,8 @@ An array contains only the values 0, 1 and 2 (red, white, blue). Sort it in plac
 
 ## Files in this package
 
-- `SortColors.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SortColorsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `SortColors.java`: the LeetCode method/class signature, write your solution here.
+- `SortColorsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

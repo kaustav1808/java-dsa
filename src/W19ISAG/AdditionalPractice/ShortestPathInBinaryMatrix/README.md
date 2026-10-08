@@ -30,9 +30,8 @@ In an n x n binary grid, find the length of the shortest clear path from the top
 
 ## Files in this package
 
-- `ShortestPathInBinaryMatrix.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ShortestPathInBinaryMatrixTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ShortestPathInBinaryMatrix.java`: the LeetCode method/class signature, write your solution here.
+- `ShortestPathInBinaryMatrixTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

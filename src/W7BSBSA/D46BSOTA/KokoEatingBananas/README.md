@@ -30,9 +30,8 @@ Koko has piles of bananas and h hours. Each hour she picks one pile and eats k b
 
 ## Files in this package
 
-- `KokoEatingBananas.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `KokoEatingBananasTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `KokoEatingBananas.java`: the LeetCode method/class signature, write your solution here.
+- `KokoEatingBananasTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

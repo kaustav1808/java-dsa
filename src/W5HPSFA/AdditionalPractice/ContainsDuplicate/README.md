@@ -29,9 +29,8 @@ Given an integer array, return true if any value appears at least twice, and fal
 
 ## Files in this package
 
-- `ContainsDuplicate.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ContainsDuplicateTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ContainsDuplicate.java`: the LeetCode method/class signature, write your solution here.
+- `ContainsDuplicateTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

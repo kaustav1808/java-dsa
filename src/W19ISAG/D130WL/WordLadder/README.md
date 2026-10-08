@@ -29,9 +29,8 @@ Using the same rules as above (change one letter at a time, every intermediate w
 
 ## Files in this package
 
-- `WordLadder.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `WordLadderTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `WordLadder.java`: the LeetCode method/class signature, write your solution here.
+- `WordLadderTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -28,9 +28,8 @@ Given the preorder and inorder traversal arrays of a binary tree whose values ar
 
 ## Files in this package
 
-- `ConstructBinaryTreeFromPreorderAndInorderTraversal.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ConstructBinaryTreeFromPreorderAndInorderTraversalTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ConstructBinaryTreeFromPreorderAndInorderTraversal.java`: the LeetCode method/class signature, write your solution here.
+- `ConstructBinaryTreeFromPreorderAndInorderTraversalTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -29,9 +29,8 @@ Every root-to-leaf path in a binary tree of digits 0-9 spells a number (for exam
 
 ## Files in this package
 
-- `SumRootToLeafNumbers.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SumRootToLeafNumbersTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `SumRootToLeafNumbers.java`: the LeetCode method/class signature, write your solution here.
+- `SumRootToLeafNumbersTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

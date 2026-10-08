@@ -28,9 +28,8 @@ Design a structure that receives a stream of integers and can report the median 
 
 ## Files in this package
 
-- `FindMedianFromDataStream.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `FindMedianFromDataStreamTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MedianFinder.java`: the LeetCode method/class signature, write your solution here.
+- `MedianFinderTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

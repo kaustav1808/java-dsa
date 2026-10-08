@@ -29,9 +29,8 @@ Given two non-negative integers `num1` and `num2` written as strings, return the
 
 ## Files in this package
 
-- `MultiplyStrings.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MultiplyStringsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MultiplyStrings.java`: the LeetCode method/class signature, write your solution here.
+- `MultiplyStringsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

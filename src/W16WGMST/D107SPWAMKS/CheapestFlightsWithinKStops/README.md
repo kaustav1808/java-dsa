@@ -29,9 +29,8 @@ There are n cities and directed flights [from, to, price]. Return the cheapest p
 
 ## Files in this package
 
-- `CheapestFlightsWithinKStops.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `CheapestFlightsWithinKStopsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `CheapestFlightsWithinKStops.java`: the LeetCode method/class signature, write your solution here.
+- `CheapestFlightsWithinKStopsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

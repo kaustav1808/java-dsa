@@ -28,9 +28,8 @@ Buildings are given as [left, right, height] rectangles standing on flat ground.
 
 ## Files in this package
 
-- `TheSkylineProblem.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `TheSkylineProblemTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `TheSkylineProblem.java`: the LeetCode method/class signature, write your solution here.
+- `TheSkylineProblemTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

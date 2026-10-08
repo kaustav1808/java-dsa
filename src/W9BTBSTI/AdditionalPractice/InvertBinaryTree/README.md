@@ -28,9 +28,8 @@ Given the root of a binary tree, invert it (mirror it: swap every node's left an
 
 ## Files in this package
 
-- `InvertBinaryTree.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `InvertBinaryTreeTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `InvertBinaryTree.java`: the LeetCode method/class signature, write your solution here.
+- `InvertBinaryTreeTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

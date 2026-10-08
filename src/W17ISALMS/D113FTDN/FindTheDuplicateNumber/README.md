@@ -29,9 +29,8 @@ An array of n + 1 integers contains values only in the range [1, n], so at least
 
 ## Files in this package
 
-- `FindTheDuplicateNumber.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `FindTheDuplicateNumberTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `FindTheDuplicateNumber.java`: the LeetCode method/class signature, write your solution here.
+- `FindTheDuplicateNumberTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

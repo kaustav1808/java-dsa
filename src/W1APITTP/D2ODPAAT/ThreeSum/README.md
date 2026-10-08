@@ -29,9 +29,8 @@ Given an integer array `nums`, return every unique triplet `[a, b, c]` of elemen
 
 ## Files in this package
 
-- `ThreeSum.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ThreeSumTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ThreeSum.java`: the LeetCode method/class signature, write your solution here.
+- `ThreeSumTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

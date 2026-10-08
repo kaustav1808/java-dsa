@@ -28,9 +28,8 @@ Design a time-based key-value store: set(key, value, timestamp) stores a value a
 
 ## Files in this package
 
-- `TimeBasedKeyValueStore.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `TimeBasedKeyValueStoreTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `TimeMap.java`: the LeetCode method/class signature, write your solution here.
+- `TimeMapTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -29,9 +29,8 @@ You are given a list of non-overlapping intervals sorted by start, and one new i
 
 ## Files in this package
 
-- `InsertInterval.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `InsertIntervalTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `InsertInterval.java`: the LeetCode method/class signature, write your solution here.
+- `InsertIntervalTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

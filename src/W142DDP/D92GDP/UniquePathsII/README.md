@@ -29,9 +29,8 @@ Same as Unique Paths (move only right or down from top-left to bottom-right), bu
 
 ## Files in this package
 
-- `UniquePathsII.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `UniquePathsIITest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `UniquePathsII.java`: the LeetCode method/class signature, write your solution here.
+- `UniquePathsIITest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

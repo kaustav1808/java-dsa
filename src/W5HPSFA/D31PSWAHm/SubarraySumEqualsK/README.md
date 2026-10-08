@@ -30,9 +30,8 @@ Given an integer array (values may be negative) and an integer k, return the tot
 
 ## Files in this package
 
-- `SubarraySumEqualsK.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SubarraySumEqualsKTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `SubarraySumEqualsK.java`: the LeetCode method/class signature, write your solution here.
+- `SubarraySumEqualsKTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

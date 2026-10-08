@@ -28,9 +28,8 @@ Given an m x n grid of non-negative numbers, find a path from the top-left to th
 
 ## Files in this package
 
-- `MinimumPathSum.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MinimumPathSumTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MinimumPathSum.java`: the LeetCode method/class signature, write your solution here.
+- `MinimumPathSumTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

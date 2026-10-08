@@ -29,9 +29,8 @@ Given two arrays `nums1` and `nums2`, each already sorted in ascending order, re
 
 ## Files in this package
 
-- `MedianOfTwoSortedArrays.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MedianOfTwoSortedArraysTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MedianOfTwoSortedArrays.java`: the LeetCode method/class signature, write your solution here.
+- `MedianOfTwoSortedArraysTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

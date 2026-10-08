@@ -29,9 +29,8 @@ You may finish at most k distinct projects before an IPO. Project i needs at lea
 
 ## Files in this package
 
-- `IPO.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `IPOTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `IPO.java`: the LeetCode method/class signature, write your solution here.
+- `IPOTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

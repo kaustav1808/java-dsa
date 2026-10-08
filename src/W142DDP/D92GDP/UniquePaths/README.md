@@ -29,9 +29,8 @@ A robot starts at the top-left cell of an m x n grid and can only move right or 
 
 ## Files in this package
 
-- `UniquePaths.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `UniquePathsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `UniquePaths.java`: the LeetCode method/class signature, write your solution here.
+- `UniquePathsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

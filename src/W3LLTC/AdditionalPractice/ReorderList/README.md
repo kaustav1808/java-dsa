@@ -29,9 +29,8 @@ Given a list L0 -> L1 -> ... -> Ln-1 -> Ln, reorder it in place to L0 -> Ln -> L
 
 ## Files in this package
 
-- `ReorderList.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ReorderListTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ReorderList.java`: the LeetCode method/class signature, write your solution here.
+- `ReorderListTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

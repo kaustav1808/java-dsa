@@ -29,9 +29,8 @@ In an n x n grid, grid[r][c] is the elevation of each cell. At time t the water 
 
 ## Files in this package
 
-- `SwimInRisingWater.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SwimInRisingWaterTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `SwimInRisingWater.java`: the LeetCode method/class signature, write your solution here.
+- `SwimInRisingWaterTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

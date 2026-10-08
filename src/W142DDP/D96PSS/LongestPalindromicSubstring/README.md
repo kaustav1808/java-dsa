@@ -29,9 +29,8 @@ Given a string `s`, return its longest substring that reads the same forwards an
 
 ## Files in this package
 
-- `LongestPalindromicSubstring.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `LongestPalindromicSubstringTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `LongestPalindromicSubstring.java`: the LeetCode method/class signature, write your solution here.
+- `LongestPalindromicSubstringTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

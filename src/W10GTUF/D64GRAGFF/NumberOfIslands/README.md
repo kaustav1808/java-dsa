@@ -28,9 +28,8 @@ Given a grid of '1' (land) and '0' (water), count the islands. An island is a gr
 
 ## Files in this package
 
-- `NumberOfIslands.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `NumberOfIslandsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `NumberOfIslands.java`: the LeetCode method/class signature, write your solution here.
+- `NumberOfIslandsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

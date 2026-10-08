@@ -29,9 +29,8 @@ Given two strings `word1` and `word2`, return the minimum number of single-chara
 
 ## Files in this package
 
-- `EditDistance.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `EditDistanceTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `EditDistance.java`: the LeetCode method/class signature, write your solution here.
+- `EditDistanceTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

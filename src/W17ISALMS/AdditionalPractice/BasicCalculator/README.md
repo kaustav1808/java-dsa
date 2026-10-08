@@ -30,9 +30,8 @@ Evaluate a string expression containing non-negative integers, '+', '-', parenth
 
 ## Files in this package
 
-- `BasicCalculator.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `BasicCalculatorTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `BasicCalculator.java`: the LeetCode method/class signature, write your solution here.
+- `BasicCalculatorTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

@@ -28,9 +28,8 @@ Given the root of a binary tree and a targetSum, count the paths whose node valu
 
 ## Files in this package
 
-- `PathSumIII.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `PathSumIIITest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `PathSumIII.java`: the LeetCode method/class signature, write your solution here.
+- `PathSumIIITest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

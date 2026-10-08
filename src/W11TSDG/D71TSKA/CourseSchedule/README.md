@@ -29,9 +29,8 @@ There are `numCourses` courses labelled 0..n-1 and a list of prerequisite pairs 
 
 ## Files in this package
 
-- `CourseSchedule.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `CourseScheduleTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `CourseSchedule.java`: the LeetCode method/class signature, write your solution here.
+- `CourseScheduleTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

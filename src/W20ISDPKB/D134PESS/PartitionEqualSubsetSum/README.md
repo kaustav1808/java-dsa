@@ -29,9 +29,8 @@ Given an array of positive integers, return true if it can be split into two sub
 
 ## Files in this package
 
-- `PartitionEqualSubsetSum.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `PartitionEqualSubsetSumTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `PartitionEqualSubsetSum.java`: the LeetCode method/class signature, write your solution here.
+- `PartitionEqualSubsetSumTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

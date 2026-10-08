@@ -30,9 +30,8 @@ Decode a string encoded as k[encoded_string], meaning the part inside the bracke
 
 ## Files in this package
 
-- `DecodeString.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `DecodeStringTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `DecodeString.java`: the LeetCode method/class signature, write your solution here.
+- `DecodeStringTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

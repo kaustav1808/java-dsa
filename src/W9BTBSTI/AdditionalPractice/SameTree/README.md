@@ -29,9 +29,8 @@ Given the roots of two binary trees, return true if they are the same: identical
 
 ## Files in this package
 
-- `SameTree.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SameTreeTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `SameTree.java`: the LeetCode method/class signature, write your solution here.
+- `SameTreeTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

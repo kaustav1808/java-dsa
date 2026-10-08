@@ -30,9 +30,8 @@ Given an integer array, find the contiguous non-empty subarray with the largest 
 
 ## Files in this package
 
-- `MaximumProductSubarray.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MaximumProductSubarrayTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MaximumProductSubarray.java`: the LeetCode method/class signature, write your solution here.
+- `MaximumProductSubarrayTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

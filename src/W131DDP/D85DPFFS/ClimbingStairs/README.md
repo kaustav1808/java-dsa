@@ -29,9 +29,8 @@ You are climbing a staircase of `n` steps and can climb either 1 or 2 steps at a
 
 ## Files in this package
 
-- `ClimbingStairs.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ClimbingStairsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ClimbingStairs.java`: the LeetCode method/class signature, write your solution here.
+- `ClimbingStairsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

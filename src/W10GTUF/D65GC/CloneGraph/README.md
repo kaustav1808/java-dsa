@@ -28,9 +28,9 @@ Given a reference to one node of a connected undirected graph, return a deep cop
 
 ## Files in this package
 
-- `CloneGraph.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `CloneGraphTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `CloneGraph.java`: the LeetCode method/class signature, write your solution here.
+- `CloneGraphTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
+- `Node.java`: LeetCode's Node class (already defined on LeetCode, do not paste it).
 
 ## Before you code
 

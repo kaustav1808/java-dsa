@@ -29,9 +29,8 @@ Given an uppercase string and an integer k, you may change at most k characters 
 
 ## Files in this package
 
-- `LongestRepeatingCharacterReplacement.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `LongestRepeatingCharacterReplacementTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `LongestRepeatingCharacterReplacement.java`: the LeetCode method/class signature, write your solution here.
+- `LongestRepeatingCharacterReplacementTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

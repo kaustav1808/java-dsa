@@ -29,9 +29,8 @@ An undirected graph is given as an adjacency list graph[i]. Return true if the g
 
 ## Files in this package
 
-- `IsGraphBipartite.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `IsGraphBipartiteTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `IsGraphBipartite.java`: the LeetCode method/class signature, write your solution here.
+- `IsGraphBipartiteTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

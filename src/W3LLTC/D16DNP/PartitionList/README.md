@@ -28,9 +28,8 @@ Given the head of a linked list and a value `x`, rearrange the list so all nodes
 
 ## Files in this package
 
-- `PartitionList.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `PartitionListTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `PartitionList.java`: the LeetCode method/class signature, write your solution here.
+- `PartitionListTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

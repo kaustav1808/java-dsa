@@ -30,9 +30,8 @@ There are n cities. isConnected[i][j] = 1 means cities i and j are directly conn
 
 ## Files in this package
 
-- `NumberOfProvinces.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `NumberOfProvincesTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `NumberOfProvinces.java`: the LeetCode method/class signature, write your solution here.
+- `NumberOfProvincesTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

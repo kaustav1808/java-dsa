@@ -29,9 +29,8 @@ An undirected graph has n nodes, and each edge has a probability of successful t
 
 ## Files in this package
 
-- `PathWithMaximumProbability.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `PathWithMaximumProbabilityTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `PathWithMaximumProbability.java`: the LeetCode method/class signature, write your solution here.
+- `PathWithMaximumProbabilityTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

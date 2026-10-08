@@ -28,9 +28,8 @@ Design a simplified Twitter: users can post tweets (with unique ids), follow and
 
 ## Files in this package
 
-- `DesignTwitter.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `DesignTwitterTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `Twitter.java`: the LeetCode method/class signature, write your solution here.
+- `TwitterTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

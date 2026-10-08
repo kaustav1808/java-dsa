@@ -29,9 +29,8 @@ You are given `n` non-negative integers representing the heights of bars of widt
 
 ## Files in this package
 
-- `TrappingRainWater.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `TrappingRainWaterTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `TrappingRainWater.java`: the LeetCode method/class signature, write your solution here.
+- `TrappingRainWaterTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

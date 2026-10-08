@@ -29,9 +29,8 @@ Implement `pow(x, n)`: compute x raised to the integer power n, where x is a dou
 
 ## Files in this package
 
-- `PowXN.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `PowXNTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `PowXN.java`: the LeetCode method/class signature, write your solution here.
+- `PowXNTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

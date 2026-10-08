@@ -29,9 +29,8 @@ Children stand in a line, each with a rating. Give each child at least one candy
 
 ## Files in this package
 
-- `Candy.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `CandyTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `Candy.java`: the LeetCode method/class signature, write your solution here.
+- `CandyTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

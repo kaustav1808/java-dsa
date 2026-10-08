@@ -29,9 +29,8 @@ Given a binary matrix of '0' and '1', find the largest square containing only '1
 
 ## Files in this package
 
-- `MaximalSquare.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `MaximalSquareTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `MaximalSquare.java`: the LeetCode method/class signature, write your solution here.
+- `MaximalSquareTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

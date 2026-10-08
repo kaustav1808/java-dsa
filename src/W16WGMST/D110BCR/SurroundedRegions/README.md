@@ -28,9 +28,8 @@ Given an m x n board of 'X' and 'O', capture every region of 'O's that is comple
 
 ## Files in this package
 
-- `SurroundedRegions.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SurroundedRegionsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `SurroundedRegions.java`: the LeetCode method/class signature, write your solution here.
+- `SurroundedRegionsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

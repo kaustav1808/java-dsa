@@ -28,9 +28,8 @@ Given the heads of two singly linked lists, return the node at which they inters
 
 ## Files in this package
 
-- `IntersectionOfTwoLinkedLists.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `IntersectionOfTwoLinkedListsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `IntersectionOfTwoLinkedLists.java`: the LeetCode method/class signature, write your solution here.
+- `IntersectionOfTwoLinkedListsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

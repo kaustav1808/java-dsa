@@ -28,9 +28,8 @@ Given an integer array that may contain duplicates, return all possible subsets 
 
 ## Files in this package
 
-- `SubsetsII.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SubsetsIITest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `SubsetsII.java`: the LeetCode method/class signature, write your solution here.
+- `SubsetsIITest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

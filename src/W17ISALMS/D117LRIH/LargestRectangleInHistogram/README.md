@@ -29,9 +29,8 @@ Given an array of bar heights for a histogram where every bar has width 1, retur
 
 ## Files in this package
 
-- `LargestRectangleInHistogram.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `LargestRectangleInHistogramTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `LargestRectangleInHistogram.java`: the LeetCode method/class signature, write your solution here.
+- `LargestRectangleInHistogramTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

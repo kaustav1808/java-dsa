@@ -29,9 +29,8 @@ Place `n` queens on an n x n chessboard so that no two queens attack each other 
 
 ## Files in this package
 
-- `NQueens.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `NQueensTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `NQueens.java`: the LeetCode method/class signature, write your solution here.
+- `NQueensTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

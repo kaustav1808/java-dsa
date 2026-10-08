@@ -33,9 +33,8 @@ Binary search on the answer.
 
 ## Files in this package
 
-- `SplitArrayLargestSum.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `SplitArrayLargestSumTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `SplitArrayLargestSum.java`: the LeetCode method/class signature, write your solution here.
+- `SplitArrayLargestSumTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

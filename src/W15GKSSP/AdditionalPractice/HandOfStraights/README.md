@@ -29,9 +29,8 @@ Alice wants to rearrange her cards into groups of exactly groupSize consecutive 
 
 ## Files in this package
 
-- `HandOfStraights.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `HandOfStraightsTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `HandOfStraights.java`: the LeetCode method/class signature, write your solution here.
+- `HandOfStraightsTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

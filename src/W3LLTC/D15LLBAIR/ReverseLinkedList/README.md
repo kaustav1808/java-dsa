@@ -29,9 +29,8 @@ Given the head of a singly linked list, reverse it and return the new head.
 
 ## Files in this package
 
-- `ReverseLinkedList.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ReverseLinkedListTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ReverseLinkedList.java`: the LeetCode method/class signature, write your solution here.
+- `ReverseLinkedListTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

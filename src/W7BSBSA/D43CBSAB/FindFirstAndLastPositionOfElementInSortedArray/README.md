@@ -29,9 +29,8 @@ Given an array `nums` sorted in non-decreasing order and a `target`, return the 
 
 ## Files in this package
 
-- `FindFirstAndLastPositionOfElementInSortedArray.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `FindFirstAndLastPositionOfElementInSortedArrayTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `FindFirstAndLastPositionOfElementInSortedArray.java`: the LeetCode method/class signature, write your solution here.
+- `FindFirstAndLastPositionOfElementInSortedArrayTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

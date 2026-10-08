@@ -29,9 +29,8 @@ Given daily temperatures, return an array where answer[i] is the number of days 
 
 ## Files in this package
 
-- `DailyTemperatures.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `DailyTemperaturesTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `DailyTemperatures.java`: the LeetCode method/class signature, write your solution here.
+- `DailyTemperaturesTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

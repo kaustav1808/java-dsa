@@ -29,9 +29,8 @@ A large non-negative integer is given as an array of its digits, most significan
 
 ## Files in this package
 
-- `PlusOne.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `PlusOneTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `PlusOne.java`: the LeetCode method/class signature, write your solution here.
+- `PlusOneTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

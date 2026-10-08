@@ -32,9 +32,8 @@ Skip duplicates at the same level.
 
 ## Files in this package
 
-- `CombinationSumII.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `CombinationSumIITest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `CombinationSumII.java`: the LeetCode method/class signature, write your solution here.
+- `CombinationSumIITest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

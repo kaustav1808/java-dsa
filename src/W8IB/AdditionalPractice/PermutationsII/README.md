@@ -28,9 +28,8 @@ Given an array that may contain duplicate values, return all distinct permutatio
 
 ## Files in this package
 
-- `PermutationsII.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `PermutationsIITest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `PermutationsII.java`: the LeetCode method/class signature, write your solution here.
+- `PermutationsIITest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

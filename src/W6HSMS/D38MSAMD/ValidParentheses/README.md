@@ -30,9 +30,8 @@ Given a string made only of the characters `()[]{}`, decide whether it is valid:
 
 ## Files in this package
 
-- `ValidParentheses.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `ValidParenthesesTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `ValidParentheses.java`: the LeetCode method/class signature, write your solution here.
+- `ValidParenthesesTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

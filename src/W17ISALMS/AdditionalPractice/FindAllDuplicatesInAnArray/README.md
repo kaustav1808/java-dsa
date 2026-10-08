@@ -29,9 +29,8 @@ In an array of length n whose values are in [1, n], each value appears once or t
 
 ## Files in this package
 
-- `FindAllDuplicatesInAnArray.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `FindAllDuplicatesInAnArrayTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `FindAllDuplicatesInAnArray.java`: the LeetCode method/class signature, write your solution here.
+- `FindAllDuplicatesInAnArrayTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 

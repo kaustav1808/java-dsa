@@ -29,9 +29,8 @@ Given an m x n matrix, return all elements in diagonal zig-zag order: start at t
 
 ## Files in this package
 
-- `DiagonalTraverse.java`: write your solution here.
-- `Main.java`: run your solution on the examples above.
-- `DiagonalTraverseTest.java`: JUnit 5 tests; turn each example (and your own edge cases) into an assertion.
+- `DiagonalTraverse.java`: the LeetCode method/class signature, write your solution here.
+- `DiagonalTraverseTest.java`: JUnit 5 tests for every official example (already written); add your own edge cases.
 
 ## Before you code
 
