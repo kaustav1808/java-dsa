@@ -49,4 +49,15 @@ public class TwoSumIIInputArrayIsSortedTest {
 
         assertArrayEquals(expected, actual);
     }
+
+    @Test
+    @DisplayName("Example 3: numbers = [5,25,75], target = -1 -> [2,3]")
+    void example4() {
+        int[] numbers = new int[] {5,25,75};
+        int target = 100;
+        int[] expected = new int[] {2, 3};
+        int[] actual = new TwoSumIIInputArrayIsSorted().twoSum(numbers, target);
+
+        assertArrayEquals(expected, actual);
+    }
 }

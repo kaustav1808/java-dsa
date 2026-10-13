@@ -46,4 +46,14 @@ public class ValidPalindromeTest {
 
         assertEquals(expected, actual);
     }
+
+    @Test
+    @DisplayName("Example 3: s = \"0P \" -> true")
+    void example4() {
+        String s = "0P";
+        boolean expected = false;
+        boolean actual = new ValidPalindrome().isPalindrome(s);
+
+        assertEquals(expected, actual);
+    }
 }
