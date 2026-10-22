@@ -47,4 +47,14 @@ public class ThreeSumTest {
 
         assertEquals(TestUtil.sortAll(expected), TestUtil.sortAll(actual));
     }
+
+    @Test
+    @DisplayName("Example 3: nums = [1,2,0,1,0,0,0,0] -> [[0,0,0]]")
+    void example4() {
+        int[] nums = new int[] {1,2,0,1,0,0,0,0};
+        List<List<Integer>> expected = list(list(0, 0, 0));
+        List<List<Integer>> actual = new ThreeSum().threeSum(nums);
+
+        assertEquals(TestUtil.sortAll(expected), TestUtil.sortAll(actual));
+    }
 }
